@@ -94,6 +94,7 @@ Pilih salah satu mode berikut:
 - ROE memakai TTM return on equity, PBV memakai harga terakhir, dan CR memakai laporan terakhir.
 - Bank umumnya tidak memiliki current ratio; nilai kosong tidak diisi nol.
 - Maksimal 60 ticker diambil per percobaan.
+- Qwen menerima maksimal 15 kandidat teratas agar respons lebih cepat; tabel tetap menampilkan semua kandidat dari universe.
 - Universe emiten adalah snapshot, bukan daftar real-time. Detail sumber ada di [data/ticker_universe.source.txt](data/ticker_universe.source.txt).
 - `data/fundamentals.csv` adalah data lokal pengguna dan tidak di-commit. Aplikasi tetap bisa membuat template dari tab Sektor & Kuadran.
 - Data Yahoo/yfinance bisa terlambat, kosong, atau berbeda dari data IDX/RTI.

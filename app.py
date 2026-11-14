@@ -331,6 +331,10 @@ def render_assistant(context: str) -> None:
             except Exception as exc:
                 st.error(str(exc))
         st.caption("Ollama: http://127.0.0.1:11434/v1. LM Studio: http://127.0.0.1:1234/v1.")
+        st.caption(
+            "Model lokal di CPU bisa butuh 30–60 detik. "
+            "Untuk demo cepat tanpa Qwen, pilih mode Katalog offline."
+        )
 
     for message in st.session_state.assistant_messages:
         with st.chat_message(message["role"]):
@@ -358,7 +362,7 @@ def render_assistant(context: str) -> None:
             )
         elif mode.startswith("API"):
             try:
-                with st.spinner("Menghubungi Qwen..."):
+                with st.spinner("Qwen menyusun ranking (model lokal bisa 30–60 detik)..."):
                     reply = assistant.ask_openai(
                         endpoint,
                         model,
@@ -390,9 +394,15 @@ def render_assistant(context: str) -> None:
                     st.session_state.assistant_messages.append(
                         {"role": "assistant", "content": f"Catatan parser: {parsed['error']}"}
                     )
-            except Exception as exc:
+            except Exception:
                 st.session_state.assistant_messages.append(
-                    {"role": "assistant", "content": f"Gagal memanggil Qwen: {exc}"}
+                    {
+                        "role": "assistant",
+                        "content": (
+                            "Qwen tidak merespons. Kandidat dari universe tetap ditampilkan tanpa ranking AI. "
+                            "Coba lagi, atau pilih mode Katalog offline untuk demo tanpa model."
+                        ),
+                    }
                 )
                 st.session_state.assistant_suggestions = candidates
         elif mode.startswith("Copy"):

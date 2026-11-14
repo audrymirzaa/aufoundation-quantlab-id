@@ -10,6 +10,7 @@ from . import universe
 
 SECTOR_ALIASES = universe.SECTOR_ALIASES
 MAX_SUGGESTIONS = universe.MAX_CANDIDATES
+MAX_PROMPT_CANDIDATES = 15
 
 CATALOG: list[dict[str, Any]] = [
     {"code": "BBCA", "name": "Bank Central Asia", "sector": "Financials", "aliases": ["bca", "bank"]},
@@ -232,9 +233,9 @@ def system_prompt(candidates: Sequence[Mapping[str, Any]] | None = None) -> str:
     base = (
         "Anda asisten analisa saham Indonesia (IDX). Tugas Anda hanya memilih ticker IDX yang relevan "
         "dengan pertanyaan pengguna. Balas HANYA satu objek JSON valid tanpa teks lain, dengan skema: "
-        '{"message":"ringkasan singkat","tickers":[{"code":"BBCA","name":"Bank Central Asia",'
-        '"sector":"Financials","reason":"alasan singkat"}]}. '
-        "Aturan: kode 4 huruf tanpa akhiran .JK, hanya saham yang tercatat di IDX, maksimal 20 ticker, "
+        '{"message":"ringkasan singkat","tickers":[{"code":"BBCA","reason":"alasan singkat"}]}. '
+        "Nama dan sektor tidak perlu diisi; aplikasi melengkapinya dari universe. "
+        f"Aturan: kode 4 huruf tanpa akhiran .JK, hanya saham yang tercatat di IDX, maksimal {MAX_PROMPT_CANDIDATES} ticker, "
         "jangan mengarang kode. Jika tidak yakin, kosongkan tickers dan jelaskan di message. "
         f"Sektor yang dipakai: {sectors}."
     )
@@ -252,7 +253,8 @@ def system_prompt(candidates: Sequence[Mapping[str, Any]] | None = None) -> str:
 
 
 def build_copy_prompt(query: str, candidates: Sequence[Mapping[str, Any]] | None = None) -> str:
-    return f"{system_prompt(candidates)}\n\nPertanyaan pengguna: {query}\n\nJawab hanya dengan JSON sesuai skema."
+    prompt_candidates = list(candidates)[:MAX_PROMPT_CANDIDATES] if candidates else candidates
+    return f"{system_prompt(prompt_candidates)}\n\nPertanyaan pengguna: {query}\n\nJawab hanya dengan JSON sesuai skema."
 
 
 def universe_suggestions(query: str, limit: int = MAX_SUGGESTIONS) -> tuple[list[dict[str, Any]], bool]:
@@ -365,7 +367,7 @@ def chat_openai(
     messages: Sequence[Mapping[str, str]],
     *,
     api_key: str | None = None,
-    timeout: float = 90.0,
+    timeout: float = 120.0,
 ) -> str:
     try:
         import requests
@@ -402,9 +404,10 @@ def ask_openai(
     candidates: Sequence[Mapping[str, Any]] | None = None,
     history: Sequence[Mapping[str, str]] | None = None,
     api_key: str | None = None,
-    timeout: float = 90.0,
+    timeout: float = 120.0,
 ) -> str:
-    messages: list[dict[str, str]] = [{"role": "system", "content": system_prompt(candidates)}]
+    prompt_candidates = list(candidates)[:MAX_PROMPT_CANDIDATES] if candidates else candidates
+    messages: list[dict[str, str]] = [{"role": "system", "content": system_prompt(prompt_candidates)}]
     for message in history or []:
         role = message.get("role")
         content = message.get("content")

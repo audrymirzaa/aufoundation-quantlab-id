@@ -95,3 +95,37 @@ def test_ask_openai_sends_universe_candidates(monkeypatch):
     assert "AALI|" in system
     assert "HANYA dari kandidat" in system
     assert len(captured["messages"]) == 2
+
+
+def test_ask_openai_limits_prompt_candidates(monkeypatch):
+    captured = {}
+
+    def fake_chat(endpoint, model, messages, **kwargs):
+        captured["messages"] = messages
+        return '{"message":"ok","tickers":[]}'
+
+    monkeypatch.setattr(assistant, "chat_openai", fake_chat)
+    candidates, _ = assistant.universe_suggestions("bank")
+    assert len(candidates) > assistant.MAX_PROMPT_CANDIDATES
+    assistant.ask_openai("http://127.0.0.1:11434/v1", "qwen2.5:3b", "bank", candidates=candidates)
+    system = captured["messages"][0]["content"]
+    candidate_lines = [
+        line
+        for line in system.splitlines()
+        if len(line) >= 5 and line[:4].isupper() and line[4] == "|"
+    ]
+    assert len(candidate_lines) == assistant.MAX_PROMPT_CANDIDATES
+    assert '"name"' not in system
+    assert '"reason"' in system
+
+
+def test_copy_prompt_limits_candidates(monkeypatch):
+    candidates, _ = assistant.universe_suggestions("bank")
+    assert len(candidates) > assistant.MAX_PROMPT_CANDIDATES
+    prompt = assistant.build_copy_prompt("bank", candidates)
+    candidate_lines = [
+        line
+        for line in prompt.splitlines()
+        if len(line) >= 5 and line[:4].isupper() and line[4] == "|"
+    ]
+    assert len(candidate_lines) == assistant.MAX_PROMPT_CANDIDATES
