@@ -1,0 +1,977 @@
+code,name,sector,subsector,aliases,board,listed,sector_source,source,updated
+AADI,Adaro Andalan Indonesia Tbk.,Energy,"Oil, Gas & Coal",,Utama,2024-12-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AALI,Astra Agro Lestari Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Utama,1997-12-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ABBA,Mahaka Media Tbk.,Consumer Cyclicals,Media & Entertainment,,Pemantauan Khusus,2002-04-03,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ABDA,Asuransi Bina Dana Arta Tbk.,Financials,Insurance,,Pemantauan Khusus,1989-07-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ABMM,ABM Investama Tbk.,Energy,Coal Production,,Utama,2011-12-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ACES,Aspirasi Hidup Indonesia Tbk.,Consumer Cyclicals,Retailing,ace hardware|ritel,Utama,2007-11-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ACRO,Samcro Hyosung Adilestari Tbk.,Consumer Cyclicals,Apparel & Luxury Goods,,Pengembangan,2024-01-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ACST,Acset Indonusa Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Pengembangan,2013-06-24,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ADCP,Adhi Commuter Properti Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2021-05-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ADES,Akasha Wira International Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,1994-06-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ADHI,Adhi Karya (Persero) Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Utama,2004-03-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ADMF,Adira Dinamika Multi Finance Tbk.,Financials,Financing Service,,Pengembangan,2004-03-31,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ADMG,Polychem Indonesia Tbk,Basic Materials,Basic Materials,,Pengembangan,1993-10-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ADMR,Alamtri Minerals Indonesia Tbk.,Energy,"Oil, Gas & Coal",,Utama,2022-01-03,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ADRO,Alamtri Resources Indonesia Tbk.,Energy,"Oil, Gas & Coal",adaro|batu bara|coal,Utama,2008-07-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AEGS,Anugerah Spareparts Sejahtera Tbk.,Consumer Cyclicals,Automobiles & Components,,Pemantauan Khusus,2023-09-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AGAR,Asia Sejahtera Mina Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2019-12-02,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AGII,Samator Indo Gas Tbk.,Basic Materials,Basic Materials,,Pengembangan,2016-09-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AGRO,Bank Raya Indonesia Tbk.,Financials,Banks,bank|perbankan,Utama,2003-08-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AGRS,Bank IBK Indonesia Tbk.,Financials,Banks,bank|perbankan,Pengembangan,2014-12-22,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AHAP,Asuransi Harta Aman Pratama Tbk.,Financials,Insurance,,Pengembangan,1990-09-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AIMS,Artha Mahiya Investama Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2001-07-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AISA,FKS Food Sejahtera Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Utama,1997-06-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AKKU,Anugerah Kagum Karya Utama Tbk.,Consumer Cyclicals,Consumer Services,,Pemantauan Khusus,2004-11-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AKPI,Argha Karya Prima Industry Tbk.,Basic Materials,Basic Materials,,Pengembangan,1992-12-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AKRA,AKR Corporindo Tbk.,Energy,"Oil, Gas & Coal",akr|distribusi,Utama,1994-10-03,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AKSI,Mineral Sumberdaya Mandiri Tbk.,Transportation & Logistics,Logistics & Deliveries,,Pengembangan,2001-07-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ALDO,Alkindo Naratama Tbk.,Basic Materials,Basic Materials,,Pengembangan,2011-07-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ALII,Ancara Logistics Indonesia Tbk.,Energy,"Oil, Gas & Coal",,Utama,2024-02-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ALKA,Alakasa Industrindo Tbk,Basic Materials,Basic Materials,,Pengembangan,1990-07-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ALMI,Alumindo Light Metal Industry Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,1997-01-02,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ALTO,Tri Banyan Tirta Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pemantauan Khusus,2012-07-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AMAG,Asuransi Multi Artha Guna Tbk.,Financials,Insurance,,Pengembangan,2005-12-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AMAN,Makmur Berkah Amanda Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2020-03-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AMAR,Bank Amar Indonesia Tbk.,Financials,Banks,bank|perbankan,Pengembangan,2020-01-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AMFG,Asahimas Flat Glass Tbk.,Industrials,Industrial Goods,,Utama,1995-11-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AMIN,Ateliers Mecaniques D Indonesie Tbk.,Industrials,Industrial Goods,,Pengembangan,2015-12-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AMMN,Amman Mineral Internasional Tbk.,Basic Materials,Basic Materials,,Utama,2023-07-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AMMS,Agung Menjangan Mas Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Akselerasi,2022-08-04,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AMOR,Ashmore Asset Management Indonesia Tbk.,Financials,Investment Service,,Pengembangan,2020-01-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AMRT,Sumber Alfaria Trijaya Tbk.,Consumer Non-Cyclicals,Food & Staples Retailing,alfamart|ritel,Utama,2009-01-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ANDI,Andira Agro Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Pemantauan Khusus,2018-08-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ANJT,Austindo Nusantara Jaya Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Pengembangan,2013-05-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ANTM,ANTAM (Persero) Tbk.,Basic Materials,Basic Materials,antam|emas|nikel|tambang,Utama,1997-11-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+APEX,Apexindo Pratama Duta Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2013-06-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+APIC,Pacific Strategic Financial Tbk.,Financials,Holding & Investment Companies,,Pengembangan,2002-12-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+APII,Arita Prima Indonesia Tbk.,Industrials,Industrial Goods,,Pengembangan,2013-10-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+APLI,Asiaplast Industries Tbk.,Basic Materials,Basic Materials,,Pengembangan,2000-05-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+APLN,Agung Podomoro Land Tbk.,Properties & Real Estate,Properties & Real Estate,,Utama,2010-11-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ARCI,Archi Indonesia Tbk.,Basic Materials,Basic Materials,,Pengembangan,2021-06-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AREA,Dunia Virtual Online Tbk.,Technology,Software & IT Services,,Pengembangan,2024-04-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ARGO,Argo Pantes Tbk,Consumer Cyclicals,Apparel & Luxury Goods,,Pengembangan,1991-01-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ARII,Atlas Resources Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2011-11-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ARKA,Arkha Jayanti Persada Tbk.,Industrials,Industrial Goods,,Pemantauan Khusus,2019-07-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ARKO,Arkora Hydro Tbk.,Infrastructure,Utilities,,Pengembangan,2022-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ARMY,Armidian Karyatama Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2017-06-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ARNA,Arwana Citramulia Tbk.,Industrials,Industrial Goods,arwana|keramik,Utama,2001-07-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ARTA,Arthavest Tbk,Consumer Cyclicals,Consumer Services,,Pengembangan,2002-11-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ARTI,Ratu Prabu Energi Tbk,Energy,"Oil, Gas & Coal",,Pemantauan Khusus,2003-04-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ARTO,Bank Jago Tbk.,Financials,Banks,bank|perbankan,Utama,2016-01-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ASBI,Asuransi Bintang Tbk.,Financials,Insurance,,Pengembangan,1989-11-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ASDM,Asuransi Dayin Mitra Tbk.,Financials,Insurance,,Pengembangan,1989-12-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ASGR,Astra Graphia Tbk.,Industrials,Industrial Services,,Utama,1989-11-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ASHA,Cilacap Samudera Fishing Industry Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pemantauan Khusus,2022-05-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ASII,Astra International Tbk.,Industrials,Multi-sector Holdings,astra|otomotif|alat berat,Utama,1990-04-04,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ASJT,Asuransi Jasa Tania Tbk.,Financials,Insurance,,Pengembangan,2003-12-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ASLC,Autopedia Sukses Lestari Tbk.,Consumer Cyclicals,Retailing,,Pengembangan,2022-01-25,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ASLI,Asri Karya Lestari Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Pengembangan,2024-01-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ASMI,Asuransi Maximus Graha Persada Tbk.,Financials,Insurance,,Pemantauan Khusus,2014-01-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ASPI,Andalan Sakti Primaindo Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2020-02-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ASPR,Asia Pramulia Tbk.,Basic Materials,Basic Materials,,,,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ASRI,Alam Sutera Realty Tbk.,Properties & Real Estate,Properties & Real Estate,alam sutera|properti,Utama,2007-12-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ASRM,Asuransi Ramayana Tbk.,Financials,Insurance,,Pengembangan,1990-03-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ASSA,Adi Sarana Armada Tbk.,Transportation & Logistics,Transportation,asssa|logistik|rental,Utama,2012-11-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ATAP,Trimitra Prawara Goldland Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2020-12-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ATIC,Anabatic Technologies Tbk.,Technology,Software & IT Services,,Pengembangan,2015-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ATLA,Atlantis Subsea Indonesia Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2024-04-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AUTO,Astra Otoparts Tbk.,Consumer Cyclicals,Automobiles & Components,otomotif|komponen,Utama,1998-06-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AVIA,Avia Avian Tbk.,Basic Materials,Basic Materials,,Utama,2021-12-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AWAN,Era Digital Media Tbk.,Technology,Software & IT Services,,Pengembangan,2023-04-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AXIO,Tera Data Indonusa Tbk.,Technology,Technology Hardware & Equipment,,Utama,2022-07-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AYAM,Janu Putra Sejahtera Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2023-11-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+AYLS,Arkayana Lestari Grup Tbk.,Basic Materials,Basic Materials,,Pengembangan,2020-02-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BABP,Bank MNC Internasional Tbk.,Financials,Banks,bank|perbankan,Pengembangan,2002-07-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BABY,Multitrend Indo Tbk.,Consumer Cyclicals,Retailing,,Pengembangan,2023-09-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BACA,Bank Capital Indonesia Tbk.,Financials,Banks,bank|perbankan,Utama,2007-10-04,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BACH,Bach Multi Global Tbk.,Financials,,,,,inferred,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BAIK,Bersama Mencapai Puncak Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,2024-02-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BAJA,Saranacentral Bajatama Tbk.,Basic Materials,Basic Materials,,Pengembangan,2011-12-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BALI,Bali Towerindo Sentra Tbk.,Infrastructure,Telecommunication,,Utama,2014-03-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BANK,Bank Aladin Syariah Tbk.,Financials,Banks,bank|perbankan|syariah,Utama,2021-02-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BAPA,Bekasi Asri Pemula Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2008-01-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BAPI,Bhakti Agung Propertindo Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2019-09-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BATA,Sepatu Bata Tbk.,Consumer Cyclicals,Apparel & Luxury Goods,,Pengembangan,1982-03-24,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BATR,Benteng Api Technic Tbk.,Basic Materials,Basic Materials,,Pengembangan,2024-06-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BAUT,Mitra Angkasa Sejahtera Tbk.,Consumer Cyclicals,Retailing,,Pemantauan Khusus,2022-01-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BAYU,Bayu Buana Tbk,Consumer Cyclicals,Consumer Services,,Pengembangan,1989-10-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BBCA,Bank Central Asia Tbk.,Financials,Banks,bca|bank|perbankan,Utama,2000-05-31,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BBHI,Allo Bank Indonesia Tbk.,Financials,Banks,bank|perbankan,Utama,2015-08-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BBKP,Bank KB Indonesia Tbk.,Financials,Banks,bank|perbankan,Utama,2006-07-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BBLD,Buana Finance Tbk.,Financials,Financing Service,,Pengembangan,1990-05-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BBMD,Bank Mestika Dharma Tbk.,Financials,Banks,bank|perbankan,Pengembangan,2013-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BBNI,Bank Negara Indonesia (Persero) Tbk.,Financials,Banks,bni|bank|perbankan,Utama,1996-11-25,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BBRI,Bank Rakyat Indonesia (Persero) Tbk.,Financials,Banks,bri|bank|perbankan,Utama,2003-11-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BBRM,Pelayaran Nasional Bina Buana Raya Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2013-01-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BBSI,Krom Bank Indonesia Tbk.,Financials,Banks,bank|perbankan,Pengembangan,2020-09-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BBSS,Bumi Benowo Sukses Sejahtera Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2020-04-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BBTN,Bank Tabungan Negara (Persero) Tbk.,Financials,Banks,bank|perbankan,Utama,2009-12-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BBYB,Bank Neo Commerce Tbk.,Financials,Banks,bank|perbankan,Utama,2015-01-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BCAP,MNC Kapital Indonesia Tbk.,Financials,Holding & Investment Companies,,Utama,2001-06-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BCIC,Bank JTrust Indonesia Tbk.,Financials,Banks,bank|perbankan,Pengembangan,1997-06-25,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BCIP,Bumi Citra Permai Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2009-12-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BDKR,Berdikari Pondasi Perkasa Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Utama,2023-03-03,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BDMN,Bank Danamon Indonesia Tbk.,Financials,Banks,bank|perbankan,Utama,1989-12-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BEBS,Berkah Beton Sadaya Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,2021-03-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BEEF,Estika Tata Tiara Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2019-01-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BEER,Jobubu Jarum Minahasa Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2023-01-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BEKS,Bank Pembangunan Daerah Banten Tbk.,Financials,Banks,bank|perbankan,Pemantauan Khusus,2001-07-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BELI,Global Digital Niaga Tbk.,Technology,Software & IT Services,,Ekonomi Baru,2022-11-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BELL,Trisula Textile Industries Tbk.,Consumer Cyclicals,Apparel & Luxury Goods,,Pemantauan Khusus,2017-10-03,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BESS,Batulicin Nusantara Maritim Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2020-03-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BEST,Bekasi Fajar Industrial Estate Tbk.,Properties & Real Estate,Properties & Real Estate,,Utama,2012-04-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BFIN,BFI Finance Indonesia Tbk.,Financials,Financing Service,,Utama,1990-05-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BGTG,Bank Ganesha Tbk.,Financials,Banks,bank|perbankan,Pengembangan,2016-05-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BHAT,Bhakti Multi Artha Tbk.,Financials,Insurance,,Pengembangan,2020-04-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BHIT,MNC Asia Holding Tbk.,Industrials,Multi-sector Holdings,,Pemantauan Khusus,1997-11-24,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BIKA,Binakarya Jaya Abadi Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2015-07-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BIKE,Bhineka Inovasi Ketahanan Energi Tbk.,Consumer Cyclicals,Leisure Goods,,Pengembangan,2022-03-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BIMA,Primarindo Asia Infrastructure Tbk.,Consumer Cyclicals,Apparel & Luxury Goods,,Pengembangan,1994-08-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BINA,Bank Ina Perdana Tbk.,Financials,Banks,bank|perbankan,Utama,2014-01-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BINO,Perma Plasindo Tbk.,Industrials,Industrial Services,,Pengembangan,2021-11-25,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BIPI,Astrindo Nusantara Infrastruktur Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2010-02-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BIPP,Bhuwanatala Indah Permai Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,1995-10-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BIRD,Blue Bird Tbk.,Transportation & Logistics,Transportation,blue bird|taksi,Utama,2014-11-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BISI,BISI International Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Utama,2007-05-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BJBR,Bank Pembangunan Daerah Jawa Barat dan Banten Tbk.,Financials,Banks,bank|perbankan,Utama,2010-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BJTM,Bank Pembangunan Daerah Jawa Timur Tbk.,Financials,Banks,bank|perbankan,Utama,2012-07-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BKDP,Bukit Darmo Property Tbk,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2007-06-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BKSL,Sentul City Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,1997-07-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BKSW,Bank QNB Indonesia Tbk.,Financials,Banks,bank|perbankan,Pengembangan,2002-11-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BLES,Superior Prima Sukses Tbk.,Basic Materials,Basic Materials,,Utama,2024-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BLOG,Trimitra Trans Persada Tbk.,Transportation & Logistics,Logistics & Deliveries,,,,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BLTA,Berlian Laju Tanker Tbk,Transportation & Logistics,Logistics & Deliveries,,Pemantauan Khusus,1990-03-26,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BLTZ,Graha Layar Prima Tbk.,Consumer Cyclicals,Consumer Services,,Pemantauan Khusus,2014-04-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BLUE,Berkah Prima Perkasa Tbk.,Industrials,Industrial Services,,Pengembangan,2019-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BMAS,Bank Kasikorn Indonesia Tbk.,Financials,Banks,bank|perbankan,Pemantauan Khusus,2013-07-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BMBL,Lavender Bina Cendikia Tbk.,Consumer Cyclicals,Consumer Services,,Akselerasi,2023-01-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BMHS,Bundamedik Tbk.,Healthcare,Healthcare Equipment & Providers,,Utama,2021-07-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BMRI,Bank Mandiri (Persero) Tbk.,Financials,Banks,mandiri|bank|perbankan,Utama,2003-07-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BMSR,Bintang Mitra Semestaraya Tbk,Basic Materials,Basic Materials,,Pengembangan,1999-12-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BMTR,Global Mediacom Tbk.,Consumer Cyclicals,Advertising,,Utama,1995-07-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BNBA,Bank Bumi Arta Tbk.,Financials,Banks,bank|perbankan,Pengembangan,2006-06-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BNBR,Bakrie & Brothers Tbk,Industrials,Multi-sector Holdings,,Pemantauan Khusus,1989-08-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BNGA,Bank CIMB Niaga Tbk.,Financials,Banks,bank|perbankan,Utama,1989-11-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BNII,Bank Maybank Indonesia Tbk.,Financials,Banks,bank|perbankan,Utama,1989-11-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BNLI,Bank Permata Tbk.,Financials,Banks,bank|perbankan,Pengembangan,1990-01-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BOAT,Newport Marine Services Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2024-11-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BOBA,Formosa Ingredient Factory Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2021-11-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BOGA,Apollo Global Interactive Tbk.,Consumer Cyclicals,Retailing,,Pengembangan,2016-12-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BOLA,Bali Bintang Sejahtera Tbk.,Consumer Cyclicals,Consumer Services,,Utama,2019-06-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BOLT,Garuda Metalindo Tbk.,Consumer Cyclicals,Automobiles & Components,,Pengembangan,2015-07-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BOSS,Borneo Olah Sarana Sukses Tbk.,Energy,"Oil, Gas & Coal",,Pemantauan Khusus,2018-02-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BPFI,Woori Finance Indonesia Tbk.,Financials,Financing Service,,Pengembangan,2009-06-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BPII,Batavia Prosperindo Internasional Tbk.,Financials,Holding & Investment Companies,,Pengembangan,2014-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BPTR,Batavia Prosperindo Trans Tbk.,Transportation & Logistics,Transportation,,Pengembangan,2018-07-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BRAM,Indo Kordsa Tbk.,Consumer Cyclicals,Automobiles & Components,,Pengembangan,1990-09-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BREN,Barito Renewables Energy Tbk.,Infrastructure,Utilities,,Utama,2023-10-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BRIS,Bank Syariah Indonesia (Persero) Tbk.,Financials,Banks,bsi|syariah|bank|perbankan,Utama,2018-05-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BRMS,Bumi Resources Minerals Tbk.,Basic Materials,Basic Materials,bumi resources|tambang,Utama,2010-12-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BRNA,Berlina Tbk.,Basic Materials,Basic Materials,,Pengembangan,1989-11-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BRPT,Barito Pacific Tbk.,Basic Materials,Basic Materials,barito|petrokimia,Utama,1993-10-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BRRC,Raja Roti Cemerlang Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2025-01-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BSBK,Wulandari Bangun Laksana Tbk.,Properties & Real Estate,Properties & Real Estate,,Utama,2022-11-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BSDE,Bumi Serpong Damai Tbk.,Properties & Real Estate,Properties & Real Estate,bsd|properti,Utama,2008-06-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BSIM,Bank Sinarmas Tbk.,Financials,Banks,bank|perbankan,Utama,2010-12-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BSML,Bintang Samudera Mandiri Lines Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2021-12-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BSSR,Baramulti Suksessarana Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2012-11-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BSWD,Bank Of India Indonesia Tbk.,Financials,Banks,bank|perbankan,Pengembangan,2002-05-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BTEK,Bumi Teknokultura Unggul Tbk,Consumer Non-Cyclicals,Food & Beverage,,Pemantauan Khusus,2004-05-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BTEL,Bakrie Telecom Tbk.,Infrastructure,Telecommunication,,Pemantauan Khusus,2006-02-03,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BTON,Betonjaya Manunggal Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,2001-07-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BTPN,Bank SMBC Indonesia Tbk.,Financials,Banks,bank|perbankan,Utama,2008-03-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BTPS,Bank BTPN Syariah Tbk.,Financials,Banks,btpn|bank|perbankan|syariah,Utama,2018-05-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BUAH,Segar Kumala Indonesia Tbk.,Consumer Non-Cyclicals,Food & Staples Retailing,,Pengembangan,2022-08-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BUDI,Budi Starch & Sweetener Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Utama,1995-05-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BUKA,Bukalapak.com Tbk.,Technology,Software & IT Services,bukalapak|ecommerce,Ekonomi Baru,2021-08-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BUKK,Bukaka Teknik Utama Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Pengembangan,2015-06-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BULL,Buana Lintas Lautan Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2011-05-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BUMI,Bumi Resources Tbk.,Energy,"Oil, Gas & Coal",,Utama,1990-07-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BUVA,Bukit Uluwatu Villa Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,2010-07-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BVIC,Bank Victoria International Tbk.,Financials,Banks,bank|perbankan,Utama,1999-06-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BWPT,Eagle High Plantations Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Utama,2009-10-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+BYAN,Bayan Resources Tbk.,Energy,"Oil, Gas & Coal",,Utama,2008-08-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CAKK,Cahayaputra Asa Keramik Tbk.,Industrials,Industrial Goods,,Pengembangan,2018-10-31,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CAMP,Campina Ice Cream Industry Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2017-12-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CANI,Capitol Nusantara Indonesia Tbk.,Energy,"Oil, Gas & Coal",,Pemantauan Khusus,2014-01-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CARE,Metro Healthcare Indonesia Tbk.,Healthcare,Healthcare Equipment & Providers,,Pengembangan,2020-03-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CARS,Industri dan Perdagangan Bintraco Dharma Tbk.,Consumer Cyclicals,Retailing,,Utama,2017-04-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CASA,Capital Financial Indonesia Tbk.,Financials,Holding & Investment Companies,,Pengembangan,2016-07-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CASH,Cashlez Worldwide Indonesia Tbk.,Technology,Software & IT Services,,Akselerasi,2020-05-04,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CASS,Cahaya Aero Services Tbk.,Infrastructure,Transportation Infrastructure,,Utama,2011-12-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CBDK,Bangun Kosambi Sukses Tbk.,Properties & Real Estate,Properties & Real Estate,,Utama,2025-01-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CBMF,Cahaya Bintang Medan Tbk.,Consumer Cyclicals,Household Goods,,Pemantauan Khusus,2020-04-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CBPE,Citra Buana Prasida Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2023-01-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CBRE,Cakra Buana Resources Energi Tbk.,Energy,"Oil, Gas & Coal",,Pemantauan Khusus,2023-01-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CBUT,Citra Borneo Utama Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pemantauan Khusus,2022-11-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CCSI,Communication Cable Systems Indonesia Tbk.,Industrials,Industrial Goods,,Pengembangan,2019-06-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CDIA,Chandra Daya Investasi Tbk.,Infrastructure,Utilities,,,,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CEKA,Wilmar Cahaya Indonesia Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,1996-07-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CENT,Centratama Telekomunikasi Indonesia Tbk.,Infrastructure,Telecommunication,,Pemantauan Khusus,2001-11-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CFIN,Clipan Finance Indonesia Tbk.,Financials,Financing Service,,Utama,1990-08-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CGAS,Citra Nusantara Gemilang Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2024-01-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CHEK,Diastika Biotekindo Tbk.,Healthcare,Healthcare Equipment & Providers,,,,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CHEM,Chemstar Indonesia Tbk.,Basic Materials,Basic Materials,,Pengembangan,2022-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CHIP,Pelita Teknologi Global Tbk.,Technology,Technology Hardware & Equipment,,Akselerasi,2023-02-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CINT,Chitose Internasional Tbk.,Consumer Cyclicals,Household Goods,,Pengembangan,2014-06-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CITA,Cita Mineral Investindo Tbk.,Basic Materials,Basic Materials,,Pengembangan,2002-03-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CITY,Natura City Developments Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2018-09-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CLAY,Citra Putra Realty Tbk.,Consumer Cyclicals,Consumer Services,,Pemantauan Khusus,2019-01-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CLEO,Sariguna Primatirta Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Utama,2017-05-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CLPI,Colorpak Indonesia Tbk.,Basic Materials,Basic Materials,,Pengembangan,2001-11-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CMNP,Citra Marga Nusaphala Persada Tbk.,Infrastructure,Transportation Infrastructure,,Utama,1995-01-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CMNT,Cemindo Gemilang Tbk.,Basic Materials,Basic Materials,,Pengembangan,2021-09-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CMPP,AirAsia Indonesia Tbk.,Transportation & Logistics,Transportation,,Pemantauan Khusus,1994-12-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CMRY,Cisarua Mountain Dairy Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Utama,2021-12-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CNKO,Exploitasi Energi Indonesia Tbk.,Energy,"Oil, Gas & Coal",,Pemantauan Khusus,2001-11-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CNMA,Nusantara Sejahtera Raya Tbk.,Consumer Cyclicals,Consumer Services,,Utama,2023-08-02,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CNTB,Saham Seri B ( Centex Tbk ),Consumer Cyclicals,Textiles,,,,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CNTX,Century Textile Industry Tbk.,Consumer Cyclicals,Apparel & Luxury Goods,,Pemantauan Khusus,1979-05-22,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+COAL,Black Diamond Resources Tbk.,Energy,"Oil, Gas & Coal",,Pemantauan Khusus,2022-09-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+COCO,Wahana Interfood Nusantara Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2019-03-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+COIN,Indokripto Koin Semesta Tbk.,Financials,Holding & Investment Companies,,,,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+COWL,Cowell Development Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2007-12-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CPIN,Charoen Pokphand Indonesia Tbk,Consumer Non-Cyclicals,Food & Beverage,charoen|pakan,Utama,1991-03-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CPRI,Capri Nusa Satu Properti Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2019-04-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CPRO,Central Proteina Prima Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2006-11-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CRAB,Toba Surimi Industries Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2022-08-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CRSN,Carsurin Tbk.,Industrials,Industrial Services,,Pengembangan,2023-07-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CSAP,Catur Sentosa Adiprana Tbk.,Consumer Cyclicals,Retailing,,Pengembangan,2007-12-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CSIS,Cahayasakti Investindo Sukses Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2017-05-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CSMI,Cipta Selera Murni Tbk.,Consumer Cyclicals,Consumer Services,,Pemantauan Khusus,2020-04-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CSRA,Cisadane Sawit Raya Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Pengembangan,2020-01-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CTBN,Citra Tubindo Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,1989-11-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CTRA,Ciputra Development Tbk.,Properties & Real Estate,Properties & Real Estate,ciputra|properti,Utama,1994-03-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CTTH,Citatah Tbk.,Industrials,Industrial Goods,,Pemantauan Khusus,1996-07-03,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CUAN,Petrindo Jaya Kreasi Tbk.,Energy,"Oil, Gas & Coal",,Utama,2023-03-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+CYBR,ITSEC Asia Tbk.,Technology,Software & IT Services,,Pengembangan,2023-08-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DAAZ,Daaz Bara Lestari Tbk.,Basic Materials,Basic Materials,,Utama,2024-11-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DADA,Diamond Citra Propertindo Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2020-02-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DART,Duta Anggada Realty Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,1990-05-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DATA,Remala Abadi Tbk.,Infrastructure,Telecommunication,,Pengembangan,2024-05-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DAYA,Duta Intidaya Tbk.,Consumer Non-Cyclicals,Food & Staples Retailing,,Pengembangan,2016-06-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DCII,DCI Indonesia Tbk.,Technology,Software & IT Services,data center|digital,Pengembangan,2021-01-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DEAL,Dewata Freightinternational Tbk.,Transportation & Logistics,Logistics & Deliveries,,Pemantauan Khusus,2018-11-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DEFI,Danasupra Erapacific Tbk.,Financials,Financing Service,,Pemantauan Khusus,2001-07-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DEPO,Caturkarda Depo Bangunan Tbk.,Consumer Cyclicals,Retailing,,Pengembangan,2021-11-25,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DEWA,Darma Henwa Tbk,Energy,"Oil, Gas & Coal",,Utama,2007-09-26,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DEWI,Dewi Shri Farmindo Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2022-07-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DFAM,Dafam Property Indonesia Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,2018-04-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DGIK,Nusa Konstruksi Enjiniring Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Pengembangan,2007-12-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DGNS,Diagnos Laboratorium Utama Tbk.,Healthcare,Healthcare Equipment & Providers,,Pengembangan,2021-01-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DGWG,Delta Giri Wacana Tbk.,Basic Materials,Basic Materials,,Utama,2025-01-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DIGI,Arkadia Digital Media Tbk.,Consumer Cyclicals,Media & Entertainment,,Pemantauan Khusus,2018-09-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DILD,Intiland Development Tbk.,Properties & Real Estate,Properties & Real Estate,,Utama,1991-09-04,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DIVA,Distribusi Voucher Nusantara Tbk.,Technology,Software & IT Services,,Pengembangan,2018-11-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DKFT,Central Omega Resources Tbk.,Basic Materials,Basic Materials,,Pengembangan,1997-11-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DKHH,Cipta Sarana Medika Tbk.,Healthcare,Healthcare Equipment & Providers,,,,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DLTA,Delta Djakarta Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Utama,1984-02-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DMAS,Puradelta Lestari Tbk.,Properties & Real Estate,Properties & Real Estate,,Utama,2015-05-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DMMX,Digital Mediatama Maxima Tbk.,Technology,Software & IT Services,,Pengembangan,2019-10-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DMND,Diamond Food Indonesia Tbk.,Consumer Non-Cyclicals,Food & Staples Retailing,,Pemantauan Khusus,2020-01-22,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DNAR,Bank Oke Indonesia Tbk.,Financials,Banks,bank|perbankan,Pengembangan,2014-07-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DNET,Indoritel Makmur Internasional Tbk.,Financials,Holding & Investment Companies,,Pengembangan,2000-12-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DOID,BUMA Internasional Grup Tbk.,Energy,"Oil, Gas & Coal",,Utama,2001-06-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DOOH,Era Media Sejahtera Tbk.,Consumer Cyclicals,Media & Entertainment,,Pengembangan,2023-05-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DOSS,Global Sukses Digital Tbk.,Consumer Cyclicals,Leisure Goods,,Pengembangan,2024-08-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DPNS,Duta Pertiwi Nusantara Tbk.,Basic Materials,Basic Materials,,Pengembangan,1990-08-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DPUM,Dua Putra Utama Makmur Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2015-12-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DRMA,Dharma Polimetal Tbk.,Consumer Cyclicals,Automobiles & Components,,Utama,2021-12-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DSFI,Dharma Samudera Fishing Industries Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2000-03-24,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DSNG,Dharma Satya Nusantara Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Utama,2013-06-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DSSA,Dian Swastatika Sentosa Tbk,Energy,"Oil, Gas & Coal",,Utama,2009-12-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DUCK,Jaya Bersama Indo Tbk.,Consumer Cyclicals,Consumer Services,,Pemantauan Khusus,2018-10-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DUTI,Duta Pertiwi Tbk,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,1994-11-02,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DVLA,Darya-Varia Laboratoria Tbk.,Healthcare,Pharmaceuticals & Health Care Research,,Pengembangan,1994-11-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DWGL,Dwi Guna Laksana Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2017-12-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+DYAN,Dyandra Media International Tbk.,Industrials,Industrial Services,,Pengembangan,2013-03-25,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+EAST,Eastparc Hotel Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,2019-07-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ECII,Electronic City Indonesia Tbk.,Consumer Cyclicals,Retailing,,Pengembangan,2013-07-03,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+EDGE,Indointernet Tbk.,Technology,Software & IT Services,,Pengembangan,2021-02-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+EKAD,Ekadharma International Tbk.,Basic Materials,Basic Materials,,Pengembangan,1990-08-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ELIT,Data Sinergitama Jaya Tbk.,Technology,Software & IT Services,,Pengembangan,2023-01-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ELPI,Pelayaran Nasional Ekalya Purnamasari Tbk.,Transportation & Logistics,Logistics & Deliveries,,Utama,2022-08-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ELSA,Elnusa Tbk.,Energy,"Oil, Gas & Coal",,Utama,2008-02-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ELTY,Bakrieland Development Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,1995-10-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+EMAS,Merdeka Gold Resources Tbk.,Basic Materials,Basic Materials,,,,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+EMDE,Megapolitan Developments Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2011-01-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+EMMI,Esa Medika Mandiri Tbk.,Healthcare,,,,,inferred,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+EMTK,Elang Mahkota Teknologi Tbk.,Technology,Software & IT Services,emtek|digital,Utama,2010-01-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ENAK,Champ Resto Indonesia Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,2022-02-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ENRG,Energi Mega Persada Tbk.,Energy,"Oil, Gas & Coal",,Utama,2004-06-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ENVY,Envy Technologies Indonesia Tbk.,Technology,Software & IT Services,,Pemantauan Khusus,2019-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ENZO,Morenzo Abadi Perkasa Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pemantauan Khusus,2020-09-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+EPAC,Megalestari Epack Sentosaraya Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,2020-07-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+EPMT,Enseval Putera Megatrading Tbk.,Consumer Non-Cyclicals,Food & Staples Retailing,,Pengembangan,1994-08-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ERAA,Erajaya Swasembada Tbk.,Consumer Cyclicals,Retailing,erajaya|gadget,Utama,2011-12-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ERAL,Sinar Eka Selaras Tbk.,Consumer Cyclicals,Retailing,,Utama,2023-08-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ERTX,Eratex Djaja Tbk.,Consumer Cyclicals,Apparel & Luxury Goods,,Pengembangan,1990-08-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ESIP,Sinergi Inti Plastindo Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,2019-11-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ESSA,ESSA Industries Indonesia Tbk.,Basic Materials,Basic Materials,essa|kimia,Utama,2012-02-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ESTA,Esta Multi Usaha Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,2020-03-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ESTI,Ever Shine Tex Tbk.,Consumer Cyclicals,Apparel & Luxury Goods,,Pemantauan Khusus,1992-10-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ETWA,Eterindo Wahanatama Tbk,Basic Materials,Basic Chemicals,,Pemantauan Khusus,1997-05-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+EURO,Estee Gold Feet Tbk.,Consumer Non-Cyclicals,Nondurable Household Products,,Akselerasi,2022-08-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+EXCL,XLSMART Telecom Sejahtera Tbk.,Infrastructure,Telecommunication,xl|telekomunikasi|telco,Utama,2005-09-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+FAPA,FAP Agri Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2021-01-04,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+FAST,Fast Food Indonesia Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,1993-05-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+FASW,Fajar Surya Wisesa Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,1994-12-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+FILM,MD Entertainment Tbk.,Consumer Cyclicals,Media & Entertainment,,Utama,2018-08-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+FIMP,Fimperkasa Utama Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Pemantauan Khusus,2021-04-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+FIRE,Alfa Energi Investama Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2017-06-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+FISH,FKS Multi Agro Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pemantauan Khusus,2002-01-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+FITT,Fortune Resources Investment Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,2019-06-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+FLMC,Falmaco Nonwoven Industri Tbk.,Consumer Non-Cyclicals,Nondurable Household Products,,Akselerasi,2021-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+FMII,Fortune Mate Indonesia Tbk,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2000-06-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+FOLK,Multi Garam Utama Tbk.,Industrials,Multi-sector Holdings,,Pengembangan,2023-08-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+FOOD,Sentra Food Indonesia Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2019-01-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+FORE,Fore Kopi Indonesia Tbk.,Consumer Non-Cyclicals,Food & Beverage,,,,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+FORU,Fortune Indonesia Tbk,Consumer Cyclicals,Media & Entertainment,,Pengembangan,2002-01-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+FORZ,Forza Land Indonesia Tbk.,Properties & Real Estate,,,Pemantauan Khusus,2017-04-28,github,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+FPNI,Lotte Chemical Titan Tbk.,Basic Materials,Basic Materials,,Pengembangan,2002-03-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+FUJI,Fuji Finance Indonesia Tbk.,Financials,Financing Service,,Pengembangan,2019-07-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+FUTR,Futura Energi Global Tbk.,Consumer Cyclicals,Media & Entertainment,,Pengembangan,2023-02-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+FWCT,Wijaya Cahaya Timber Tbk.,Basic Materials,Timber,,Pengembangan,2023-02-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GAMA,Aksara Global Development Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2012-07-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GDST,Gunawan Dianjaya Steel Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,2009-12-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GDYR,Goodyear Indonesia Tbk.,Consumer Cyclicals,Automobiles & Components,,Pengembangan,1980-12-22,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GEMA,Gema Grahasarana Tbk.,Consumer Cyclicals,Household Goods,,Pengembangan,2002-08-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GEMS,Golden Energy Mines Tbk.,Energy,"Oil, Gas & Coal",,Utama,2011-11-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GGRM,Gudang Garam Tbk.,Consumer Non-Cyclicals,Tobacco,,Utama,1990-08-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GGRP,Gunung Raja Paksi Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,2019-09-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GHON,Gihon Telekomunikasi Indonesia Tbk.,Infrastructure,Telecommunication,,Pengembangan,2018-04-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GIAA,Garuda Indonesia (Persero) Tbk.,Transportation & Logistics,Transportation,garuda|penerbangan,Pemantauan Khusus,2011-02-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GJTL,Gajah Tunggal Tbk.,Consumer Cyclicals,Automobiles & Components,ban|tire,Utama,1990-05-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GLOB,Globe Kita Terang Tbk.,Consumer Cyclicals,Retailing,,Pemantauan Khusus,2012-07-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GLVA,Galva Technologies Tbk.,Technology,Technology Hardware & Equipment,,Pengembangan,2019-12-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GMFI,Garuda Maintenance Facility Aero Asia Tbk.,Infrastructure,Transportation Infrastructure,,Pemantauan Khusus,2017-10-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GMTD,Gowa Makassar Tourism Development Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2000-12-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GOLD,Visi Telekomunikasi Infrastruktur Tbk.,Infrastructure,Telecommunication,,Pengembangan,2010-07-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GOLF,Intra Golflink Resorts Tbk.,Consumer Cyclicals,Consumer Services,,Utama,2024-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GOLL,Golden Plantation Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Pemantauan Khusus,2014-12-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GOOD,Garudafood Putra Putri Jaya Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Utama,2018-10-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GOTO,GoTo Gojek Tokopedia Tbk.,Technology,Software & IT Services,gojek|tokopedia|digital,Ekonomi Baru,2022-04-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GPRA,Perdana Gapuraprima Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2007-10-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GPSO,Geoprima Solusi Tbk.,Industrials,Industrial Goods,,Pengembangan,2021-09-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GRIA,Ingria Pratama Capitalindo Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2023-08-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GRPH,Griptha Putra Persada Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,2024-01-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GRPM,Graha Prima Mentari Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Akselerasi,2023-07-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GSMF,Equity Development Investment Tbk.,Financials,Holding & Investment Companies,,Pengembangan,1989-10-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GTBO,Garda Tujuh Buana Tbk,Energy,"Oil, Gas & Coal",,Pengembangan,2009-07-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GTRA,Grahaprima Suksesmandiri Tbk.,Transportation & Logistics,Logistics & Deliveries,,Pengembangan,2023-03-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GTSI,GTS Internasional Tbk.,Energy,"Oil, Gas & Coal",,Pemantauan Khusus,2021-09-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GULA,Aman Agrindo Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2022-08-03,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GUNA,Gunanusa Eramandiri Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2024-07-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GWSA,Greenwood Sejahtera Tbk.,Consumer Cyclicals,"Hotels, Resorts & Cruise Lines",,Pengembangan,2011-12-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+GZCO,Gozco Plantations Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Pengembangan,2008-05-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HADE,Himalaya Energi Perkasa Tbk.,Infrastructure,Utilities,,Pemantauan Khusus,2004-04-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HAIS,Hasnur Internasional Shipping Tbk.,Transportation & Logistics,Logistics & Deliveries,,Pengembangan,2021-09-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HAJJ,Arsy Buana Travelindo Tbk.,Consumer Cyclicals,Consumer Services,,Akselerasi,2023-04-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HALO,Haloni Jane Tbk.,Healthcare,Healthcare Equipment & Providers,,Pengembangan,2023-02-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HATM,Habco Trans Maritima Tbk.,Transportation & Logistics,Logistics & Deliveries,,Utama,2022-07-26,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HBAT,Minahasa Membangun Hebat Tbk.,Properties & Real Estate,Properties & Real Estate,,Akselerasi,2023-08-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HDFA,Radana Bhaskara Finance Tbk.,Financials,Financing Service,,Pengembangan,2011-05-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HDIT,Hensel Davest Indonesia Tbk.,Technology,Software & IT Services,,Pemantauan Khusus,2019-07-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HDTX,Panasia Indo Resources Tbk.,Consumer Cyclicals,,,Pemantauan Khusus,1990-06-06,github,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HEAL,Medikaloka Hermina Tbk.,Healthcare,Healthcare Equipment & Providers,hermina|rumah sakit,Utama,2018-05-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HELI,Jaya Trishindo Tbk.,Transportation & Logistics,Transportation,,Pengembangan,2018-03-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HERO,DFI Retail Nusantara Tbk.,Consumer Non-Cyclicals,Food & Staples Retailing,,Pengembangan,1989-08-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HEXA,Hexindo Adiperkasa Tbk.,Industrials,Industrial Goods,hexindo|alat berat,Utama,1995-02-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HGII,Hero Global Investment Tbk.,Infrastructure,Utilities,,Pengembangan,2025-01-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HILL,Hillcon Tbk.,Energy,"Oil, Gas & Coal",,Utama,2023-03-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HITS,Humpuss Intermoda Transportasi Tbk.,Energy,"Oil, Gas & Coal",,Utama,1997-12-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HKMU,HK Metals Utama Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,2018-10-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HMSP,H.M. Sampoerna Tbk.,Consumer Non-Cyclicals,Tobacco,,Pengembangan,1990-08-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HOKI,Buyung Poetra Sembada Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Utama,2017-06-22,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HOME,Hotel Mandarine Regency Tbk.,Consumer Cyclicals,Consumer Services,,Pemantauan Khusus,2008-07-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HOMI,Grand House Mulia Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2020-09-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HOPE,Harapan Duta Pertiwi Tbk.,Industrials,Industrial Goods,,Pemantauan Khusus,2021-05-24,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HOTL,Saraswati Griya Lestari Tbk.,Consumer Cyclicals,Consumer Services,,Pemantauan Khusus,2013-01-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HRME,Menteng Heritage Realty Tbk.,Consumer Cyclicals,Consumer Services,,Pemantauan Khusus,2019-04-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HRTA,Hartadinata Abadi Tbk.,Consumer Cyclicals,Apparel & Luxury Goods,,Utama,2017-06-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HRUM,Harum Energy Tbk.,Energy,"Oil, Gas & Coal",harum|batu bara|coal,Utama,2010-10-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HUMI,Humpuss Maritim Internasional Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2023-08-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+HYGN,Ecocare Indo Pasifik Tbk.,Industrials,Industrial Services,,Pengembangan,2024-02-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IATA,Karya Pacific Energy Tbk.,Energy,Coal Production,,Pemantauan Khusus,2006-09-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IBFN,Intan Baru Prana Tbk.,Industrials,Construction Machinery & Heavy Vehicles,,Pemantauan Khusus,2014-12-22,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IBOS,Indo Boga Sukses Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Akselerasi,2022-04-25,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IBST,Inti Bangun Sejahtera Tbk.,Infrastructure,Telecommunication,,Pemantauan Khusus,2012-08-31,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ICBP,Indofood CBP Sukses Makmur Tbk.,Consumer Non-Cyclicals,Food & Beverage,indomie|makanan,Utama,2010-10-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ICON,Island Concepts Indonesia Tbk.,Industrials,Industrial Services,,Pemantauan Khusus,2005-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IDEA,Idea Indonesia Akademi Tbk.,Consumer Cyclicals,Consumer Services,,Akselerasi,2021-09-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IDPR,Indonesia Pondasi Raya Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Pengembangan,2015-12-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IFII,Indonesia Fibreboard Industry Tbk.,Basic Materials,Basic Materials,,Pengembangan,2019-12-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IFSH,Ifishdeco Tbk.,Basic Materials,Basic Materials,,Pengembangan,2019-12-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IGAR,Champion Pacific Indonesia Tbk.,Basic Materials,Basic Materials,,Pengembangan,1990-11-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IIKP,Inti Agri Resources Tbk,Consumer Cyclicals,Leisure Goods,,Pemantauan Khusus,2002-10-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IKAI,Intikeramik Alamasri Industri Tbk.,Industrials,Building Products & Fixtures,,Pemantauan Khusus,1997-06-04,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IKAN,Era Mandiri Cemerlang Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pemantauan Khusus,2020-02-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IKBI,Sumi Indo Kabel Tbk.,Industrials,Industrial Goods,,Pengembangan,1991-01-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IKPM,Ikapharmindo Putramas Tbk.,Healthcare,Pharmaceuticals & Health Care Research,,Pengembangan,2023-11-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IMAS,Indomobil Sukses Internasional Tbk.,Consumer Cyclicals,Retailing,,Utama,1993-11-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IMJS,Indomobil Multi Jasa Tbk.,Transportation & Logistics,Road Transportation,,Pengembangan,2013-12-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IMPC,Impack Pratama Industri Tbk.,Industrials,Industrial Goods,,Utama,2014-12-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INAF,Indofarma Tbk.,Healthcare,Pharmaceuticals & Health Care Research,,Pemantauan Khusus,2001-04-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INAI,Indal Aluminium Industry Tbk.,Basic Materials,Basic Materials,,Pengembangan,1994-12-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INCF,Indo Komoditi Korpora Tbk.,Basic Materials,Diversified Forest,,Pemantauan Khusus,2016-09-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INCI,Intanwijaya Internasional Tbk,Basic Materials,Basic Materials,,Pengembangan,1990-07-24,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INCO,Vale Indonesia Tbk.,Basic Materials,Basic Materials,vale|nikel|tambang,Utama,1990-05-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INDF,Indofood Sukses Makmur Tbk.,Consumer Non-Cyclicals,Food & Beverage,indofood|makanan,Utama,1994-07-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INDO,Royalindo Investa Wijaya Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2020-01-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INDR,Indo-Rama Synthetics Tbk.,Consumer Cyclicals,Apparel & Luxury Goods,,Pengembangan,1990-08-03,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INDS,Indospring Tbk.,Consumer Cyclicals,Automobiles & Components,,Pengembangan,1990-08-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INDX,Tanah Laut Tbk,Industrials,Industrial Services,,Pengembangan,2001-05-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INDY,Indika Energy Tbk.,Energy,"Oil, Gas & Coal",,Utama,2008-06-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INET,Sinergi Inti Andalan Prima Tbk.,Infrastructure,Telecommunication,,Pengembangan,2023-07-24,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INKP,Indah Kiat Pulp & Paper Tbk.,Basic Materials,Basic Materials,,Utama,1990-07-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INOV,Inocycle Technology Group Tbk.,Consumer Cyclicals,Apparel & Luxury Goods,,Pengembangan,2019-07-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INPC,Bank Artha Graha Internasional Tbk.,Financials,Banks,bank|perbankan,Utama,1990-08-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INPP,Indonesian Paradise Property Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2004-01-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INPS,Indah Prakasa Sentosa Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2018-04-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INRU,Toba Pulp Lestari Tbk.,Basic Materials,Basic Materials,,Pengembangan,1990-06-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INTA,Intraco Penta Tbk.,Industrials,Industrial Goods,,Pemantauan Khusus,1993-08-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INTD,Inter Delta Tbk,Basic Materials,Basic Materials,,Pengembangan,1989-12-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+INTP,Indocement Tunggal Prakarsa Tbk.,Basic Materials,Cement,semen|cement|indocement,Utama,1989-12-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IOTF,Sumber Sinergi Makmur Tbk.,Technology,Technology Hardware & Equipment,,Pengembangan,2023-10-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IPAC,Era Graharealty Tbk.,Properties & Real Estate,Properties & Real Estate,,Akselerasi,2021-06-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IPCC,Indonesia Kendaraan Terminal Tbk.,Infrastructure,Transportation Infrastructure,,Utama,2018-07-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IPCM,Jasa Armada Indonesia Tbk.,Infrastructure,Transportation Infrastructure,,Pengembangan,2017-12-22,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IPOL,Indopoly Swakarsa Industry Tbk.,Basic Materials,Basic Materials,,Pengembangan,2010-07-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IPPE,Indo Pureco Pratama Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pemantauan Khusus,2021-12-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IPTV,MNC Vision Networks Tbk.,Consumer Cyclicals,Media & Entertainment,,Pemantauan Khusus,2019-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IRRA,Itama Ranoraya Tbk.,Healthcare,Healthcare Equipment & Providers,,Pengembangan,2019-10-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+IRSX,Folago Global Nusantara Tbk.,Technology,Software & IT Services,,Pemantauan Khusus,2023-02-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ISAP,Isra Presisi Indonesia Tbk.,Consumer Cyclicals,Automobiles & Components,,Akselerasi,2022-12-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ISAT,Indosat Tbk.,Infrastructure,Telecommunication,indosat|telekomunikasi|telco,Utama,1994-10-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ISEA,Indo American Seafoods Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2024-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ISSP,Steel Pipe Industry of Indonesia Tbk.,Basic Materials,Basic Materials,,Utama,2013-02-22,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ITIC,Indonesian Tobacco Tbk.,Consumer Non-Cyclicals,Tobacco,,Pengembangan,2019-07-04,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ITMA,Sumber Energi Andalan Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,1990-12-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ITMG,Indo Tambangraya Megah Tbk.,Energy,"Oil, Gas & Coal",itm|batu bara|coal,Utama,2007-12-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+JARR,Jhonlin Agro Raya Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Utama,2022-08-04,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+JAST,Jasnita Telekomindo Tbk.,Infrastructure,Telecommunication,,Pengembangan,2019-05-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+JATI,Informasi Teknologi Indonesia Tbk.,Technology,Software & IT Services,,Pengembangan,2023-05-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+JAWA,Jaya Agra Wattie Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Pengembangan,2011-05-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+JAYA,Armada Berjaya Trans Tbk.,Transportation & Logistics,Logistics & Deliveries,,Pengembangan,2019-02-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+JECC,Jembo Cable Company Tbk.,Industrials,Industrial Goods,,Pengembangan,1992-11-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+JECX,Nitrasanata Dharma Tbk.,Healthcare,,,,,inferred,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+JELI,Niramas Utama Tbk.,Consumer Non-Cyclicals,,,,,inferred,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+JGLE,Graha Andrasentra Propertindo Tbk.,Consumer Cyclicals,Consumer Services,,Pemantauan Khusus,2016-06-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+JIHD,Jakarta International Hotels & Development Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,1984-02-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+JKON,Jaya Konstruksi Manggala Pratama Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Utama,2007-12-04,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+JKSW,Jakarta Kyoei Steel Works Tbk.,Basic Materials,,,Pemantauan Khusus,1997-08-06,github,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+JMAS,Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk.,Financials,Insurance,,Pengembangan,2017-12-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+JPFA,Japfa Comfeed Indonesia Tbk.,Consumer Non-Cyclicals,Food & Beverage,japfa|pakan,Utama,1989-10-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+JRPT,Jaya Real Property Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,1994-06-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+JSKY,Sky Energy Indonesia Tbk.,Energy,Alternative Energy,,Pemantauan Khusus,2018-03-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+JSMR,Jasa Marga (Persero) Tbk.,Infrastructure,Transportation Infrastructure,tol|jalan tol,Utama,2007-11-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+JSPT,Jakarta Setiabudi Internasional Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,1998-01-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+JTPE,Jasuindo Tiga Perkasa Tbk.,Industrials,Industrial Services,,Utama,2002-04-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KAEF,Kimia Farma (Persero) Tbk.,Healthcare,Pharmaceuticals & Health Care Research,,Pengembangan,2001-07-04,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KAQI,Jantra Grupo Indonesia Tbk.,Consumer Cyclicals,Automobiles & Components,,,,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KARW,Meratus Jasa Prima Tbk.,Infrastructure,Transportation Infrastructure,,Pemantauan Khusus,1994-12-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KAYU,Darmi Bersaudara Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,2019-07-04,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KBAG,Karya Bersama Anugerah Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2020-04-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KBLI,KMI Wire & Cable Tbk.,Industrials,Industrial Goods,,Utama,1992-07-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KBLM,Kabelindo Murni Tbk.,Industrials,Industrial Goods,,Pengembangan,1992-06-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KBLV,First Media Tbk.,Infrastructure,Telecommunication,,Pemantauan Khusus,2000-02-25,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KBRI,Kertas Basuki Rachmat Indonesia Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,2008-07-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KDSI,Kedawung Setia Industrial Tbk.,Basic Materials,Basic Materials,,Pengembangan,1996-07-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KDTN,Puri Sentul Permai Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,2022-11-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KEEN,Kencana Energi Lestari Tbk.,Infrastructure,Utilities,,Utama,2019-09-02,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KEJU,Mulia Boga Raya Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2019-11-25,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KETR,Ketrosden Triasmitra Tbk.,Infrastructure,Wired Telecommunication Service,,Pengembangan,2021-01-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KIAS,Keramika Indonesia Assosiasi Tbk.,Industrials,Industrial Goods,,Pemantauan Khusus,1994-12-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KICI,Kedaung Indah Can Tbk,Consumer Cyclicals,Household Goods,,Pengembangan,1993-10-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KIJA,Kawasan Industri Jababeka Tbk.,Properties & Real Estate,Properties & Real Estate,,Utama,1995-01-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KING,Hoffmen Cleanindo Tbk.,Industrials,Industrial Services,,Akselerasi,2023-02-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KINO,Kino Indonesia Tbk.,Consumer Non-Cyclicals,Nondurable Household Products,,Pengembangan,2015-12-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KIOS,Kioson Komersial Indonesia Tbk.,Technology,Software & IT Services,,Pengembangan,2017-10-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KJEN,Krida Jaringan Nusantara Tbk.,Transportation & Logistics,Logistics & Deliveries,,Pengembangan,2019-07-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KKES,Kusuma Kemindo Sentosa Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,2022-08-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KKGI,Resource Alam Indonesia Tbk.,Energy,"Oil, Gas & Coal",,Utama,1991-07-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KLAS,Pelayaran Kurnia Lautan Semesta Tbk.,Transportation & Logistics,Logistics & Deliveries,,Pengembangan,2023-06-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KLBF,Kalbe Farma Tbk.,Healthcare,Pharmaceuticals & Health Care Research,kalbe|farmasi,Utama,1991-07-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KLIN,Klinko Karya Imaji Tbk.,Consumer Cyclicals,Retailing,,Akselerasi,2022-08-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KMDS,Kurniamitra Duta Sentosa Tbk.,Consumer Non-Cyclicals,Food & Staples Retailing,,Pengembangan,2020-09-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KMTR,Kirana Megatara Tbk.,Basic Materials,Basic Materials,,Pengembangan,2017-06-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KOBX,Kobexindo Tractors Tbk.,Industrials,Industrial Goods,,Pengembangan,2012-07-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KOCI,Kokoh Exa Nusantara Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2023-10-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KOIN,Kokoh Inti Arebama Tbk,Industrials,Industrial Goods,,Pemantauan Khusus,2008-04-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KOKA,Koka Indonesia Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Pemantauan Khusus,2023-10-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KONI,Perdana Bangun Pusaka Tbk,Industrials,Industrial Services,,Pengembangan,1995-08-22,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KOPI,Mitra Energi Persada Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2015-05-04,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KOTA,DMS Propertindo Tbk.,Consumer Cyclicals,"Hotels, Resorts & Cruise Lines",,Pemantauan Khusus,2019-07-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KPAL,Steadfast Marine Tbk.,Industrials,,,Pemantauan Khusus,2018-06-08,github,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KPAS,Cottonindo Ariesta Tbk.,Consumer Non-Cyclicals,,,Pemantauan Khusus,2018-10-05,github,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KPIG,MNC Tourism Indonesia Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,2000-03-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KRAH,Grand Kartech Tbk.,Industrials,,,Pemantauan Khusus,2013-11-08,github,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KRAS,Krakatau Steel (Persero) Tbk.,Basic Materials,Basic Materials,,Pengembangan,2010-11-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KREN,Quantum Clovera Investama Tbk.,Technology,Software & IT Services,,Pemantauan Khusus,2002-06-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KRYA,Bangun Karya Perkasa Jaya Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Pengembangan,2022-07-25,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KSIX,Kentanix Supra International Tbk.,Properties & Real Estate,Properties & Real Estate,,Utama,2025-01-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+KUAS,Ace Oldfields Tbk.,Industrials,Industrial Goods,,Pengembangan,2021-10-25,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LABA,Green Power Group Tbk.,Industrials,Industrial Goods,,Pengembangan,2021-06-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LABS,UBC Medical Indonesia Tbk.,Healthcare,Healthcare Equipment & Providers,,Pengembangan,2024-07-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LAJU,Jasa Berdikari Logistics Tbk.,Transportation & Logistics,Logistics & Deliveries,,Pengembangan,2023-01-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LAND,Trimitra Propertindo Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2018-08-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LAPD,Leyand International Tbk.,Consumer Non-Cyclicals,Supermarkets & Convenience Store,,Pemantauan Khusus,2001-07-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LCGP,Eureka Prima Jakarta Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2007-07-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LCKM,LCK Global Kedaton Tbk.,Infrastructure,Telecommunication,,Pengembangan,2018-01-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LEAD,Logindo Samudramakmur Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2013-12-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LFLO,Imago Mulia Persada Tbk.,Consumer Cyclicals,Household Goods,,Akselerasi,2021-04-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LIFE,MSIG Life Insurance Indonesia Tbk.,Financials,Insurance,,Pengembangan,2019-07-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LINK,Link Net Tbk.,Infrastructure,Telecommunication,,Pemantauan Khusus,2014-06-02,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LION,Lion Metal Works Tbk.,Industrials,Industrial Services,,Utama,1993-08-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LIVE,Homeco Victoria Makmur Tbk.,Consumer Cyclicals,Household Goods,,Pengembangan,2024-02-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LMAS,Limas Indonesia Makmur Tbk,Technology,Software & IT Services,,Pemantauan Khusus,2001-12-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LMAX,Lupromax Pelumas Indonesia Tbk.,Consumer Cyclicals,Automobiles & Components,,Akselerasi,2023-08-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LMPI,Langgeng Makmur Industri Tbk.,Consumer Cyclicals,Household Goods,,Pengembangan,1994-10-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LMSH,Lionmesh Prima Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,1990-06-04,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LOPI,Logisticsplus International Tbk.,Transportation & Logistics,Logistics & Deliveries,,Akselerasi,2023-10-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LPCK,Lippo Cikarang Tbk,Properties & Real Estate,Properties & Real Estate,,Utama,1997-07-24,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LPGI,Lippo General Insurance Tbk.,Financials,Insurance,,Pemantauan Khusus,1997-07-22,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LPIN,Multi Prima Sejahtera Tbk,Consumer Cyclicals,Automobiles & Components,,Pengembangan,1990-02-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LPKR,Lippo Karawaci Tbk.,Properties & Real Estate,Properties & Real Estate,lippo|properti,Utama,1996-06-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LPLI,Star Pacific Tbk,Properties & Real Estate,Properties & Real Estate,,Pengembangan,1989-10-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LPPF,MDS Retailing Tbk.,Consumer Cyclicals,Retailing,matahari|mds|ritel,Utama,1989-10-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LPPS,Lenox Pasifik Investama Tbk.,Financials,Holding & Investment Companies,,Pengembangan,1994-03-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LRNA,Eka Sari Lorena Transport Tbk.,Transportation & Logistics,Transportation,,Pengembangan,2014-04-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LSIP,PP London Sumatra Indonesia Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Utama,1996-07-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LTLS,Lautan Luas Tbk.,Basic Materials,Basic Materials,,Utama,1997-07-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LUCK,Sentral Mitra Informatika Tbk.,Technology,Technology Hardware & Equipment,,Pengembangan,2018-11-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+LUCY,Lima Dua Lima Tiga Tbk.,Consumer Cyclicals,Consumer Services,,Akselerasi,2021-05-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MABA,Marga Abhinaya Abadi Tbk.,Consumer Cyclicals,Consumer Services,,Pemantauan Khusus,2017-06-22,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MAGP,Multi Agro Gemilang Plantation Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Pemantauan Khusus,2013-01-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MAHA,Mandiri Herindo Adiperkasa Tbk.,Energy,"Oil, Gas & Coal",,Utama,2023-07-25,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MAIN,Malindo Feedmill Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Utama,2006-02-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MAMI,Mas Murni Indonesia Tbk,Consumer Cyclicals,,,Pemantauan Khusus,1994-02-09,github,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MANG,Manggung Polahraya Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Akselerasi,2024-01-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MAPA,Map Aktif Adiperkasa Tbk.,Consumer Cyclicals,Retailing,,Utama,2018-07-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MAPB,MAP Boga Adiperkasa Tbk.,Consumer Cyclicals,Consumer Services,,Pemantauan Khusus,2017-06-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MAPI,Mitra Adiperkasa Tbk.,Consumer Cyclicals,Retailing,map|ritel,Utama,2004-11-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MARI,Mahaka Radio Integra Tbk.,Consumer Cyclicals,Media & Entertainment,,Pengembangan,2016-02-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MARK,Mark Dynamics Indonesia Tbk.,Industrials,Industrial Goods,,Utama,2017-07-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MASA,Multistrada Arah Sarana Tbk.,Consumer Cyclicals,,,Pengembangan,2005-06-09,github,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MASB,Bank Multiarta Sentosa Tbk.,Financials,Banks,bank|perbankan,Pengembangan,2021-06-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MAXI,Maxindo Karya Anugerah Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2023-06-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MAYA,Bank Mayapada Internasional Tbk.,Financials,Banks,bank|perbankan,Utama,1997-08-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MBAP,Mitrabara Adiperdana Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2014-07-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MBMA,Merdeka Battery Materials Tbk.,Basic Materials,Basic Materials,,Pengembangan,2023-04-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MBSS,Mitrabahtera Segara Sejati Tbk.,Energy,"Oil, Gas & Coal",,Utama,2011-04-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MBTO,Martina Berto Tbk.,Consumer Non-Cyclicals,Nondurable Household Products,,Pengembangan,2011-01-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MCAS,M Cash Integrasi Tbk.,Technology,Software & IT Services,,Utama,2017-11-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MCOL,Prima Andalan Mandiri Tbk.,Energy,"Oil, Gas & Coal",,Utama,2021-09-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MCOR,Bank China Construction Bank Indonesia Tbk.,Financials,Banks,bank|perbankan,Utama,2007-07-03,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MDIA,Intermedia Capital Tbk.,Consumer Cyclicals,Media & Entertainment,,Pemantauan Khusus,2014-04-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MDIY,Daya Intiguna Yasa Tbk.,Consumer Cyclicals,Retailing,,Utama,2024-12-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MDKA,Merdeka Copper Gold Tbk.,Basic Materials,Basic Materials,merdeka|tembaga|emas,Utama,2015-06-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MDKI,Emdeki Utama Tbk.,Basic Materials,Basic Materials,,Pengembangan,2017-09-25,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MDLA,Medela Potentia Tbk.,Healthcare,Pharmaceuticals & Health Care Research,,,,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MDLN,Modernland Realty Tbk.,Properties & Real Estate,Properties & Real Estate,,Utama,1993-01-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MDRN,Modern Internasional Tbk.,Industrials,Industrial Services,,Pemantauan Khusus,1991-07-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MEDC,Medco Energi Internasional Tbk.,Energy,"Oil, Gas & Coal",medco|minyak|gas,Utama,1994-10-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MEDS,Hetzer Medical Indonesia Tbk.,Healthcare,Healthcare Equipment & Providers,,Pengembangan,2022-08-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MEGA,Bank Mega Tbk.,Financials,Banks,bank|perbankan,Utama,2000-04-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MEJA,Harta Djaya Karya Tbk.,Consumer Cyclicals,Household Goods,,Akselerasi,2024-02-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MENN,Menn Teknologi Indonesia Tbk.,Technology,Technology Hardware & Equipment,,Akselerasi,2023-04-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MERI,Merry Riana Edukasi Tbk.,Consumer Cyclicals,Consumer Services,,,,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MERK,Merck Tbk.,Healthcare,Pharmaceuticals & Health Care Research,,Pengembangan,1981-07-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+META,Nusantara Infrastructure Tbk.,Infrastructure,Transportation Infrastructure,,Pemantauan Khusus,2001-07-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MFIN,Mandala Multifinance Tbk.,Financials,,,Utama,2005-09-06,github,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MFMI,Multifiling Mitra Indonesia Tbk.,Industrials,Industrial Services,,Pemantauan Khusus,2010-12-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MGLV,NexAI Digital Infrastruktur Tbk.,Consumer Cyclicals,Household Goods,,Akselerasi,2021-06-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MGNA,Magna Investama Mandiri Tbk.,Consumer Cyclicals,"Hotels, Resorts & Cruise Lines",,Pemantauan Khusus,2014-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MGRO,Mahkota Group Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Pengembangan,2018-07-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MHKI,Multi Hanna Kreasindo Tbk.,Industrials,Industrial Services,,Pengembangan,2024-04-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MICE,Multi Indocitra Tbk.,Consumer Cyclicals,Household Goods,,Pengembangan,2005-12-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MIDI,Midi Utama Indonesia Tbk.,Consumer Non-Cyclicals,Food & Staples Retailing,,Pengembangan,2010-11-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MIKA,Mitra Keluarga Karyasehat Tbk.,Healthcare,Healthcare Equipment & Providers,mitra keluarga|rumah sakit,Utama,2015-03-24,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MINA,Sanurhasta Mitra Tbk.,Consumer Cyclicals,Consumer Services,,Pemantauan Khusus,2017-04-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MINE,Sinar Terang Mandiri Tbk.,Basic Materials,Basic Materials,,,,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MIRA,Mitra International Resources Tbk.,Transportation & Logistics,Logistics & Deliveries,,Pemantauan Khusus,1997-01-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MITI,Mitra Investindo Tbk.,Transportation & Logistics,Logistics & Deliveries,,Pengembangan,1997-07-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MKAP,Multikarya Asia Pasifik Raya Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2024-02-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MKNT,Mitra Komunikasi Nusantara Tbk.,Consumer Cyclicals,Retailing,,Pemantauan Khusus,2015-10-26,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MKPI,Metropolitan Kentjana Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2009-07-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MKTR,Menthobi Karyatama Raya Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Utama,2022-11-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MLBI,Multi Bintang Indonesia Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Utama,1981-12-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MLIA,Mulia Industrindo Tbk,Industrials,Industrial Goods,,Utama,1994-01-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MLPL,Multipolar Tbk.,Consumer Non-Cyclicals,Supermarkets & Convenience Store,,Utama,1989-11-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MLPT,Multipolar Technology Tbk.,Technology,Software & IT Services,,Pengembangan,2013-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MMIX,Multi Medika Internasional Tbk.,Healthcare,Healthcare Equipment & Providers,,Pengembangan,2022-12-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MMLP,Mega Manunggal Property Tbk.,Properties & Real Estate,Properties & Real Estate,,Utama,2015-06-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MNCN,Media Nusantara Citra Tbk.,Consumer Cyclicals,Media & Entertainment,,Utama,2007-06-22,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MOLI,Madusari Murni Indah Tbk.,Basic Materials,Basic Materials,,Pengembangan,2018-08-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MORA,Ekamas Mora Republik Tbk.,Infrastructure,Telecommunication,,Utama,2022-08-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MPIX,Mitra Pedagang Indonesia Tbk.,Technology,Software & IT Services,,Pengembangan,2024-02-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MPMX,Mitra Pinasthika Mustika Tbk.,Consumer Cyclicals,Retailing,,Utama,2013-05-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MPOW,Megapower Makmur Tbk.,Infrastructure,Utilities,,Pengembangan,2017-07-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MPPA,Matahari Putra Prima Tbk.,Consumer Non-Cyclicals,Food & Staples Retailing,,Utama,1992-12-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MPRO,Maha Properti Indonesia Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2018-10-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MPXL,MPX Logistics International Tbk.,Transportation & Logistics,Logistics & Deliveries,,Pengembangan,2023-05-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MRAT,Mustika Ratu Tbk.,Consumer Non-Cyclicals,Nondurable Household Products,,Pengembangan,1995-07-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MREI,Maskapai Reasuransi Indonesia Tbk.,Financials,Insurance,,Pengembangan,1989-09-04,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MSIE,Multisarana Intan Eduka Tbk.,Properties & Real Estate,Properties & Real Estate,,Akselerasi,2023-08-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MSIN,MNC Digital Entertainment Tbk.,Consumer Cyclicals,Media & Entertainment,,Utama,2018-06-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MSJA,Multi Spunindo Jaya Tbk.,Consumer Non-Cyclicals,Nondurable Household Products,,Utama,2024-01-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MSKY,MNC Sky Vision Tbk.,Consumer Cyclicals,Media & Entertainment,,Pengembangan,2012-07-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MSTI,Mastersystem Infotama Tbk.,Technology,Technology Hardware & Equipment,,Utama,2023-11-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MTDL,Metrodata Electronics Tbk.,Technology,Technology Hardware & Equipment,metrodata|teknologi,Utama,1990-04-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MTEL,Dayamitra Telekomunikasi Tbk.,Infrastructure,Telecommunication,,Utama,2021-11-22,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MTFN,Capitalinc Investment Tbk.,Energy,"Oil, Gas & Coal",,Pemantauan Khusus,1990-04-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MTLA,Metropolitan Land Tbk.,Properties & Real Estate,Properties & Real Estate,,Utama,2011-06-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MTMH,Murni Sadar Tbk.,Healthcare,Healthcare Equipment & Providers,,Utama,2022-04-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MTPS,Meta Epsi Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Pemantauan Khusus,2019-04-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MTRA,Mitra Pemuda Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Pemantauan Khusus,2016-02-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MTSM,Metro Realty Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,1992-01-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MTWI,Malacca Trust Wuwungan Insurance Tbk.,Financials,Insurance,,Pengembangan,2017-10-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MUTU,Mutuagung Lestari Tbk.,Industrials,Industrial Services,,Pengembangan,2023-08-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MYOH,Samindo Resources Tbk.,Energy,"Oil, Gas & Coal",,Utama,2000-07-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MYOR,Mayora Indah Tbk.,Consumer Non-Cyclicals,Food & Beverage,mayora|makanan,Utama,1990-07-04,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MYRX,Hanson International Tbk.,Properties & Real Estate,,,Pemantauan Khusus,1990-10-31,github,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+MYTX,Asia Pacific Investama Tbk.,Consumer Cyclicals,Apparel & Luxury Goods,,Pemantauan Khusus,1989-10-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NAIK,Adiwarna Anugerah Abadi Tbk.,Industrials,Industrial Services,,Pengembangan,2024-11-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NANO,Nanotech Indonesia Global Tbk.,Consumer Non-Cyclicals,Nondurable Household Products,,Akselerasi,2022-03-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NASA,Andalan Perkasa Abadi Tbk.,Properties & Real Estate,Real Estate Development & Management,,Pemantauan Khusus,2017-08-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NASI,Wahana Inti Makmur Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2021-12-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NATO,Olympus Strategic Indonesia Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,2019-01-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NAYZ,Hassana Boga Sejahtera Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Akselerasi,2023-02-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NCKL,Trimegah Bangun Persada Tbk.,Basic Materials,Basic Materials,,Utama,2023-04-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NELY,Pelayaran Nelly Dwi Putri Tbk.,Transportation & Logistics,Logistics & Deliveries,,Pengembangan,2012-10-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NEST,Esta Indonesia Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2024-08-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NETV,MDTV Media Technologies Tbk.,Consumer Cyclicals,Media & Entertainment,,Pemantauan Khusus,2022-01-26,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NFCX,NFC Indonesia Tbk.,Technology,Software & IT Services,,Pengembangan,2018-07-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NICE,Adhi Kartiko Pratama Tbk.,Basic Materials,Basic Materials,,Pengembangan,2024-01-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NICK,Charnic Capital Tbk.,Financials,Holding & Investment Companies,,Pengembangan,2018-05-02,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NICL,PAM Mineral Tbk.,Basic Materials,Basic Materials,,Pengembangan,2021-07-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NIKL,Pelat Timah Nusantara Tbk.,Basic Materials,Basic Materials,,Pengembangan,2009-12-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NINE,Techno9 Indonesia Tbk.,Technology,Technology Hardware & Equipment,,Akselerasi,2022-12-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NIPS,Nipress Tbk.,Consumer Cyclicals,,,Pemantauan Khusus,1991-07-24,github,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NIRO,City Retail Developments Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2012-09-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NISP,Bank OCBC NISP Tbk.,Financials,Banks,bank|perbankan,Utama,1994-10-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NOBU,Bank Nationalnobu Tbk.,Financials,Banks,bank|perbankan,Pengembangan,2013-05-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NPGF,Nusa Palapa Gemilang Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,2021-04-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NRCA,Nusa Raya Cipta Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Pengembangan,2013-06-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NSSS,Nusantara Sawit Sejahtera Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Pengembangan,2023-03-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NTBK,Nusatama Berkah Tbk.,Industrials,Industrial Goods,,Pengembangan,2022-02-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NUSA,Sinergi Megah Internusa Tbk.,Consumer Cyclicals,Consumer Services,,Pemantauan Khusus,2018-07-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+NZIA,Nusantara Almazia Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2019-09-25,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+OASA,Maharaksa Biru Energi Tbk.,Infrastructure,Telecommunication,,Pengembangan,2016-07-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+OBAT,Brigit Biofarmaka Teknologi Tbk.,Healthcare,Pharmaceuticals & Health Care Research,,Pengembangan,2025-01-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+OBMD,OBM Drilchem Tbk.,Basic Materials,Basic Materials,,Pengembangan,2021-12-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+OCAP,Onix Capital Tbk.,Financials,Holding & Investment Companies,,Pemantauan Khusus,2003-10-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+OILS,Indo Oil Perkasa Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2021-09-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+OKAS,Ancora Indonesia Resources Tbk.,Basic Materials,Basic Materials,,Pengembangan,2006-03-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+OLIV,Atlas Nexus Group Tbk.,Consumer Cyclicals,Household Goods,,Akselerasi,2022-05-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+OMED,Jayamas Medica Industri Tbk.,Healthcare,Healthcare Equipment & Providers,,Utama,2022-11-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+OMRE,Indonesia Prima Property Tbk,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,1994-08-22,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+OPMS,Optima Prima Metal Sinergi Tbk.,Basic Materials,Basic Materials,,Pengembangan,2019-09-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PACK,Abadi Nusantara Hijau Investama Tbk.,Basic Materials,Basic Materials,,Akselerasi,2023-02-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PADA,Personel Alih Daya Tbk.,Industrials,Industrial Services,,Pemantauan Khusus,2022-12-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PADI,Minna Padi Investama Sekuritas Tbk.,Financials,Investment Service,,Pemantauan Khusus,2012-01-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PALM,Provident Investasi Bersama Tbk.,Financials,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Pengembangan,2012-10-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PAMG,Bima Sakti Pertiwi Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2019-07-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PANI,Pantai Indah Kapuk Dua Tbk.,Properties & Real Estate,Real Estate Development & Management,,Pengembangan,2018-09-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PANR,Panorama Sentrawisata Tbk.,Consumer Cyclicals,Consumer Services,,Utama,2001-09-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PANS,Panin Sekuritas Tbk.,Financials,Investment Service,,Utama,2000-05-31,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PART,Cipta Perdana Lancar Tbk.,Consumer Cyclicals,Automobiles & Components,,Pengembangan,2024-07-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PBID,Panca Budi Idaman Tbk.,Basic Materials,Basic Materials,,Utama,2017-12-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PBRX,Pan Brothers Tbk.,Consumer Cyclicals,Apparel & Luxury Goods,,Pemantauan Khusus,1990-08-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PBSA,Paramita Bangun Sarana Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Pengembangan,2016-09-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PCAR,Prima Cakrawala Abadi Tbk.,Consumer Non-Cyclicals,Food & Staples Retailing,,Pengembangan,2017-12-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PDES,Destinasi Tirta Nusantara Tbk,Consumer Cyclicals,Consumer Services,,Pengembangan,2008-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PDPP,Primadaya Plastisindo Tbk.,Basic Materials,Basic Materials,,Pengembangan,2022-11-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PEGE,Panca Global Kapital Tbk.,Financials,Holding & Investment Companies,,Pengembangan,2005-06-24,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PEHA,Phapros Tbk.,Healthcare,Pharmaceuticals & Health Care Research,,Pengembangan,2018-12-26,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PEVE,Penta Valent Tbk.,Healthcare,Pharmaceuticals & Health Care Research,,Pengembangan,2023-01-24,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PGAS,Perusahaan Gas Negara (Persero) Tbk.,Energy,"Oil, Gas & Coal",gas|pgn,Utama,2003-12-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PGEO,Pertamina Geothermal Energy Tbk.,Infrastructure,Utilities,geothermal|energi,Utama,2023-02-24,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PGJO,Bahtera Bumi Raya Tbk.,Technology,Software & IT Services,,Akselerasi,2020-01-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PGLI,Pembangunan Graha Lestari Indah Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,2000-04-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PGUN,Pradiksi Gunatama Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pemantauan Khusus,2020-07-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PICO,Pelangi Indah Canindo Tbk,Basic Materials,Basic Materials,,Pengembangan,1996-09-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PIPA,Oxala Energy International Tbk.,Industrials,Industrial Goods,,Pemantauan Khusus,2023-04-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PJAA,Pembangunan Jaya Ancol Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,2004-07-02,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PJHB,Pelayaran Jaya Hidup Baru Tbk.,Transportation & Logistics,Logistics & Deliveries,,,,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PKPK,Paragon Karya Perkasa Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2007-07-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PLAN,Planet Properindo Jaya Tbk.,Consumer Cyclicals,Consumer Services,,Akselerasi,2020-09-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PLAS,Polaris Investama Tbk,Financials,Holding & Investment Companies,,Pemantauan Khusus,2001-03-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PLIN,Plaza Indonesia Realty Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,1992-06-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PMJS,Putra Mandiri Jembar Tbk.,Consumer Cyclicals,Retailing,,Pengembangan,2019-12-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PMMP,Panca Mitra Multiperdana Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2020-12-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PMUI,Prima Multi Usaha Indonesia Tbk.,Consumer Cyclicals,Retailing,,,,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PNBN,Bank Pan Indonesia Tbk,Financials,Banks,bank|perbankan,Utama,1982-12-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PNBS,Bank Panin Dubai Syariah Tbk.,Financials,Banks,bank|perbankan|syariah,Pengembangan,2014-01-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PNGO,AEP Pinago Plantations Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Pengembangan,2020-08-31,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PNIN,Paninvest Tbk.,Financials,Insurance,,Utama,1983-09-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PNLF,Panin Financial Tbk.,Financials,Insurance,,Utama,1983-06-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PNSE,Pudjiadi & Sons Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,1990-05-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+POLA,Pool Advista Finance Tbk.,Financials,Financing Service,,Pemantauan Khusus,2018-11-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+POLI,Pollux Hotels Group Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2019-01-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+POLL,Pollux Properties Indonesia Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2018-07-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+POLU,Golden Flower Tbk.,Consumer Cyclicals,Apparel & Luxury Goods,,Pengembangan,2019-06-26,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+POLY,Asia Pacific Fibers Tbk,Consumer Cyclicals,Apparel & Luxury Goods,,Pemantauan Khusus,1991-03-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+POOL,Pool Advista Indonesia Tbk.,Financials,Holding & Investment Companies,,Pemantauan Khusus,1991-05-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PORT,Nusantara Pelabuhan Handal Tbk.,Infrastructure,Transportation Infrastructure,,Pengembangan,2017-03-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+POSA,Bliss Properti Indonesia Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2019-05-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+POWR,Cikarang Listrindo Tbk.,Infrastructure,Utilities,,Utama,2016-06-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PPGL,Prima Globalindo Logistik Tbk.,Transportation & Logistics,Logistics & Deliveries,,Akselerasi,2020-07-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PPRE,PP Presisi Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Pengembangan,2017-11-24,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PPRI,Paperocks Indonesia Tbk.,Basic Materials,Basic Materials,,Pengembangan,2023-08-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PPRO,PP Properti Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2015-05-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PRAS,Prima Alloy Steel Universal Tbk.,Consumer Cyclicals,,,Pemantauan Khusus,1990-07-12,github,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PRAY,Famon Awal Bros Sedaya Tbk.,Healthcare,Healthcare Equipment & Providers,,Pengembangan,2022-11-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PRDA,Prodia Widyahusada Tbk.,Healthcare,Healthcare Equipment & Providers,,Utama,2016-12-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PRDL,Prodia Diagnostic Line Tbk.,Healthcare,,,,,inferred,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PRIM,Royal Prima Tbk.,Healthcare,Healthcare Equipment & Providers,,Pengembangan,2018-05-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PSAB,J Resources Asia Pasifik Tbk.,Basic Materials,Basic Materials,,Pengembangan,2003-04-22,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PSAT,Pancaran Samudera Transport Tbk.,Energy,"Oil, Gas & Coal",,,,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PSDN,Prasidha Aneka Niaga Tbk,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,1994-10-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PSGO,Palma Serasih Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Utama,2019-11-25,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PSKT,Red Planet Indonesia Tbk.,Consumer Cyclicals,Consumer Services,,Pemantauan Khusus,1995-09-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PSSI,IMC Pelita Logistik Tbk.,Energy,"Oil, Gas & Coal",,Utama,2017-12-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PTBA,Bukit Asam (Persero) Tbk.,Energy,"Oil, Gas & Coal",bukit asam|batu bara|coal,Utama,2002-12-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PTDU,Djasa Ubersakti Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Pemantauan Khusus,2020-12-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PTIS,Indo Straits Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2011-07-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PTMP,Mitra Pack Tbk.,Industrials,Industrial Goods,,Pengembangan,2023-03-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PTMR,Master Print Tbk.,Basic Materials,Basic Materials,,Pengembangan,2024-10-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PTPP,PP (Persero) Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Utama,2010-02-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PTPS,Pulau Subur Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Pengembangan,2023-10-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PTPW,Pratama Widya Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Pengembangan,2020-02-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PTRO,Petrosea Tbk.,Energy,"Oil, Gas & Coal",,Utama,1990-05-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PTSN,Sat Nusapersada Tbk,Technology,Technology Hardware & Equipment,,Pengembangan,2007-11-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PTSP,Pioneerindo Gourmet International Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,1994-05-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PUDP,Pudjiadi Prestige Tbk.,Properties & Real Estate,Properties & Real Estate,,Utama,1994-11-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PURA,Putra Rajawali Kencana Tbk.,Transportation & Logistics,Logistics & Deliveries,,Pemantauan Khusus,2020-01-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PURE,Trinitan Metals and Minerals Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,2019-10-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PURI,Puri Global Sukses Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2020-09-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PWON,Pakuwon Jati Tbk.,Properties & Real Estate,Properties & Real Estate,pakuwon|properti,Utama,1989-10-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PYFA,Pyridam Farma Tbk,Healthcare,Pharmaceuticals & Health Care Research,,Pengembangan,2001-10-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+PZZA,Sarimelati Kencana Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,2018-05-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RAAM,Tripar Multivision Plus Tbk.,Consumer Cyclicals,Media & Entertainment,,Utama,2023-05-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RAFI,Sari Kreasi Boga Tbk.,Consumer Cyclicals,Consumer Services,,Pemantauan Khusus,2022-08-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RAJA,Rukun Raharja Tbk.,Energy,"Oil, Gas & Coal",,Utama,2006-04-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RALS,Ramayana Lestari Sentosa Tbk.,Consumer Cyclicals,Retailing,,Utama,1996-07-24,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RANC,Supra Boga Lestari Tbk.,Consumer Non-Cyclicals,Food & Staples Retailing,,Pengembangan,2012-06-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RANS,Rans Entertainmen Indonesia Tbk.,Consumer Cyclicals,,,,,inferred,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RATU,Raharja Energi Cepu Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2025-01-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RBMS,Ristia Bintang Mahkotasejati Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,1997-12-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RCCC,Utama Radar Cahaya Tbk.,Transportation & Logistics,Logistics & Deliveries,,Akselerasi,2022-08-02,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RDTX,Roda Vivatex Tbk,Properties & Real Estate,Properties & Real Estate,,Pengembangan,1990-05-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+REAL,Repower Asia Indonesia Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2019-12-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RELF,Graha Mitra Asia Tbk.,Properties & Real Estate,Properties & Real Estate,,Akselerasi,2023-06-22,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RELI,Reliance Sekuritas Indonesia Tbk.,Financials,Investment Service,,Pengembangan,2005-07-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RGAS,Kian Santang Muliatama Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2023-11-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RICY,Ricky Putra Globalindo Tbk,Consumer Cyclicals,Apparel & Luxury Goods,,Pengembangan,1998-01-22,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RIGS,Rig Tenders Indonesia Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,1990-03-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RIMO,Rimo International Lestari Tbk,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2000-11-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RISE,Jaya Sukses Makmur Sentosa Tbk.,Properties & Real Estate,Real Estate Development & Management,,Pengembangan,2018-07-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RLCO,Abadi Lestari Indonesia Tbk.,Consumer Non-Cyclicals,Food & Beverage,,,,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RMKE,RMK Energy Tbk.,Energy,"Oil, Gas & Coal",,Utama,2021-12-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RMKO,Royaltama Mulia Kontraktorindo Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2023-07-31,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ROCK,Rockfields Properti Indonesia Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2020-09-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RODA,Pikko Land Development Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2001-10-22,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RONY,Aracord Nusantara Group Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Pengembangan,2020-04-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ROTI,Nippon Indosari Corpindo Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2010-06-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RSCH,Charlie Hospital Semarang Tbk.,Healthcare,Healthcare Equipment & Providers,,Pengembangan,2023-08-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RSGK,Kedoya Adyaraya Tbk.,Healthcare,Healthcare Equipment & Providers,,Utama,2021-09-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RUIS,Radiant Utama Interinsco Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2006-07-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+RUNS,Global Sukses Solusi Tbk.,Technology,Software & IT Services,,Akselerasi,2021-09-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SAFE,Steady Safe Tbk,Transportation & Logistics,Transportation,,Pengembangan,1994-08-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SAGE,Saptausaha Gemilangindah Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2023-03-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SAME,Sarana Meditama Metropolitan Tbk.,Healthcare,Healthcare Equipment & Providers,,Utama,2013-01-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SAMF,Saraswanti Anugerah Makmur Tbk.,Basic Materials,Basic Materials,,Utama,2020-03-31,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SAPX,Satria Antaran Prima Tbk.,Transportation & Logistics,Logistics & Deliveries,,Pengembangan,2018-10-03,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SATU,Kota Satu Properti Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2018-11-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SBAT,Sejahtera Bintang Abadi Textile Tbk.,Consumer Cyclicals,Apparel & Luxury Goods,,Pemantauan Khusus,2020-04-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SBMA,Surya Biru Murni Acetylene Tbk.,Basic Materials,Basic Materials,,Pengembangan,2021-09-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SCCO,Supreme Cable Manufacturing & Commerce Tbk.,Industrials,Industrial Goods,,Pengembangan,1982-07-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SCMA,Surya Citra Media Tbk.,Consumer Cyclicals,Media & Entertainment,,Utama,2002-07-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SCNP,Selaras Citra Nusantara Perkasa Tbk.,Consumer Cyclicals,Household Goods,,Pengembangan,2020-09-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SCPI,Organon Pharma Indonesia Tbk.,Healthcare,Pharmaceuticals & Health Care Research,,Pemantauan Khusus,1990-06-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SDMU,Sidomulyo Selaras Tbk.,Transportation & Logistics,Logistics & Deliveries,,Pemantauan Khusus,2011-07-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SDPC,Millennium Pharmacon International Tbk.,Consumer Non-Cyclicals,Food & Staples Retailing,,Pengembangan,1990-05-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SDRA,Bank Woori Saudara Indonesia 1906 Tbk.,Financials,Banks,bank|perbankan,Utama,2006-12-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SEMA,Semacom Integrated Tbk.,Energy,Alternative Energy,,Pengembangan,2022-01-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SFAN,Surya Fajar Capital Tbk.,Financials,Holding & Investment Companies,,Pengembangan,2019-06-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SGER,Sumber Global Energy Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2020-08-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SGRO,Prime Agri Resources Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Utama,2007-06-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SHID,Hotel Sahid Jaya International Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,1990-05-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SHIP,Sillo Maritime Perdana Tbk.,Energy,"Oil, Gas & Coal",,Utama,2016-06-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SICO,Sigma Energy Compressindo Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2022-04-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SIDO,Industri Jamu dan Farmasi Sido Muncul Tbk.,Healthcare,Pharmaceuticals & Health Care Research,sido muncul|herbal,Utama,2013-12-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SILO,Siloam International Hospitals Tbk.,Healthcare,Healthcare Equipment & Providers,,Utama,2013-09-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SIMA,Siwani Makmur Tbk,Basic Materials,Basic Materials,,Pemantauan Khusus,1994-06-03,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SIMP,Salim Ivomas Pratama Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Utama,2011-06-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SINI,Singaraja Putra Tbk.,Industrials,Industrial Goods,,Pemantauan Khusus,2019-11-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SIPD,Sreeya Sewu Indonesia Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,1996-12-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SKBM,Sekar Bumi Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2012-09-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SKLT,Sekar Laut Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,1993-09-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SKRN,Superkrane Mitra Utama Tbk.,Industrials,Industrial Goods,,Pengembangan,2018-10-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SKYB,Northcliff Citranusa Indonesia Tbk.,Technology,Software & IT Services,,Pemantauan Khusus,2010-07-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SLIS,Gaya Abadi Sempurna Tbk.,Consumer Cyclicals,Retailing,,Pengembangan,2019-10-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SMAR,Sinar Mas Agro Resources and Technology Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Pengembangan,1992-11-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SMBR,Semen Baturaja (Persero) Tbk.,Basic Materials,Cement,semen|cement,Utama,2013-06-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SMCB,Solusi Bangun Indonesia Tbk.,Basic Materials,Cement,semen|cement,Pemantauan Khusus,1977-08-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SMDM,Suryamas Dutamakmur Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,1995-10-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SMDR,Samudera Indonesia Tbk.,Transportation & Logistics,Logistics & Deliveries,samudera|pelayaran,Utama,1999-07-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SMGA,Sumber Mineral Global Abadi Tbk.,Basic Materials,Basic Materials,,Pengembangan,2024-01-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SMGR,Semen Indonesia (Persero) Tbk.,Basic Materials,Cement,semen|cement|semen gresik,Utama,1991-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SMIL,Sarana Mitra Luas Tbk.,Industrials,Industrial Goods,,Utama,2023-05-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SMKL,Satyamitra Kemas Lestari Tbk.,Basic Materials,Basic Materials,,Pengembangan,2019-07-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SMKM,Sumber Mas Konstruksi Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Akselerasi,2022-03-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SMLE,Sinergi Multi Lestarindo Tbk.,Basic Materials,Basic Materials,,Pengembangan,2024-01-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SMMA,Sinarmas Multiartha Tbk.,Financials,Holding & Investment Companies,,Utama,1995-07-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SMMT,Golden Eagle Energy Tbk.,Energy,"Oil, Gas & Coal",,Pemantauan Khusus,1997-12-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SMRA,Summarecon Agung Tbk.,Properties & Real Estate,Properties & Real Estate,summarecon|properti,Utama,1990-05-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SMRU,SMR Utama Tbk.,Energy,"Oil, Gas & Coal",,Pemantauan Khusus,2011-10-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SMSM,Selamat Sempurna Tbk.,Consumer Cyclicals,Automobiles & Components,,Utama,1996-09-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SNLK,Sunter Lakeside Hotel Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,2021-03-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SOCI,Soechi Lines Tbk.,Energy,"Oil, Gas & Coal",,Utama,2014-12-03,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SOFA,Solusi Environment Asia Tbk.,Consumer Cyclicals,Household Goods,,Akselerasi,2020-07-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SOHO,Soho Global Health Tbk.,Healthcare,Pharmaceuticals & Health Care Research,,Pengembangan,2020-09-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SOLA,Xolare RCR Energy Tbk.,Basic Materials,Basic Materials,,Pengembangan,2024-05-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SONA,Sona Topas Tourism Industry Tbk.,Consumer Cyclicals,Retailing,,Pengembangan,1992-07-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SOSS,ALSOK Indonesia Services Tbk.,Industrials,Industrial Services,,Pemantauan Khusus,2018-11-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SOTS,Satria Mega Kencana Tbk.,Consumer Cyclicals,Consumer Services,,Pengembangan,2018-12-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SOUL,Mitra Tirta Buwana Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Akselerasi,2023-01-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SPMA,Suparma Tbk.,Basic Materials,Basic Materials,,Pengembangan,1994-11-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SPRE,Soraya Berjaya Indonesia Tbk.,Consumer Cyclicals,Apparel & Luxury Goods,,Akselerasi,2024-07-03,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SPTO,Surya Pertiwi Tbk.,Industrials,Industrial Goods,,Utama,2018-05-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SQMI,Wilton Makmur Indonesia Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,2004-07-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SRAJ,Sejahteraraya Anugrahjaya Tbk.,Healthcare,Healthcare Equipment & Providers,,Utama,2011-04-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SRIL,Sri Rejeki Isman Tbk.,Consumer Cyclicals,Apparel & Luxury Goods,,Pemantauan Khusus,2013-06-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SRSN,Indo Acidatama Tbk,Basic Materials,Basic Materials,,Pengembangan,1993-01-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SRTG,Saratoga Investama Sedaya Tbk.,Financials,Holding & Investment Companies,,Utama,2013-06-26,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SSIA,Surya Semesta Internusa Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Utama,1997-03-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SSMS,Sawit Sumbermas Sarana Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Utama,2013-12-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SSTM,Sunson Textile Manufacture Tbk,Consumer Cyclicals,Apparel & Luxury Goods,,Pengembangan,1997-08-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+STAA,Sumber Tani Agung Resources Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Utama,2022-03-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+STAR,Calculus Global Ventures Tbk.,Financials,Holding & Investment Companies,,Pengembangan,2011-07-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+STRK,Lovina Beach Brewery Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2023-10-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+STTP,Siantar Top Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,1996-12-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SUGI,Sugih Energy Tbk.,Energy,"Oil, Gas & Coal",,Pemantauan Khusus,2002-06-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SULI,SLJ Global Tbk.,Basic Materials,Basic Materials,,Pengembangan,1994-03-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SUNI,Sunindo Pratama Tbk.,Energy,"Oil, Gas & Coal",,Utama,2023-01-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SUPA,Super Bank Indonesia Tbk.,Financials,Banks,bank|perbankan,,,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SUPR,Solusi Tunas Pratama Tbk.,Infrastructure,Telecommunication,,Pemantauan Khusus,2011-10-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SURE,Super Energy Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2018-10-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SURI,Maja Agung Latexindo Tbk.,Healthcare,Healthcare Equipment & Providers,,Pengembangan,2023-12-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SWAT,Sriwahana Adityakarta Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,2018-06-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+SWID,Saraswanti Indoland Development Tbk.,Consumer Cyclicals,"Hotels, Resorts & Cruise Lines",,Pengembangan,2022-07-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TALF,Tunas Alfin Tbk.,Basic Materials,Basic Materials,,Pengembangan,2014-01-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TAMA,Lancartama Sejati Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Pemantauan Khusus,2020-02-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TAMU,Pelayaran Tamarin Samudra Tbk.,Energy,"Oil, Gas & Coal",,Pemantauan Khusus,2017-05-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TAPG,Triputra Agro Persada Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Utama,2021-04-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TARA,Agung Semesta Sejahtera Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2014-07-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TAXI,Express Transindo Utama Tbk.,Transportation & Logistics,Transportation,,Pemantauan Khusus,2012-11-02,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TAYS,Jaya Swarasa Agung Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2021-12-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TBIG,Tower Bersama Infrastructure Tbk.,Infrastructure,Telecommunication,menara|tower,Utama,2010-10-26,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TBLA,Tunas Baru Lampung Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Utama,2000-02-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TBMS,Tembaga Mulia Semanan Tbk.,Basic Materials,Basic Materials,,Pengembangan,1990-05-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TCID,Mandom Indonesia Tbk.,Consumer Non-Cyclicals,Nondurable Household Products,,Pengembangan,1993-09-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TCPI,Transcoal Pacific Tbk.,Energy,"Oil, Gas & Coal",,Pengembangan,2018-07-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TDPM,Tianrong Chemicals Industry Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,2018-04-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TEBE,Dana Brata Luhur Tbk.,Energy,"Oil, Gas & Coal",,Utama,2019-11-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TECH,Indosterling Technomedia Tbk.,Technology,Software & IT Services,,Pengembangan,2020-06-04,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TELE,Omni Inovasi Indonesia Tbk.,Consumer Cyclicals,Retailing,,Pemantauan Khusus,2012-01-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TFAS,Telefast Indonesia Tbk.,Technology,Software & IT Services,,Pengembangan,2019-09-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TFCO,Tifico Fiber Indonesia Tbk.,Consumer Cyclicals,Apparel & Luxury Goods,,Pemantauan Khusus,1980-02-26,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TGKA,Tigaraksa Satria Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,1990-06-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TGRA,Terregra Asia Energy Tbk.,Infrastructure,Utilities,,Pemantauan Khusus,2017-05-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TGUK,Platinum Wahab Nusantara Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2023-07-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TIFA,KDB Tifa Finance Tbk.,Financials,Financing Service,,Pemantauan Khusus,2011-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TINS,TIMAH (Persero) Tbk.,Basic Materials,Basic Materials,timah|tambang,Utama,1995-10-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TIRA,Tira Austenite Tbk,Industrials,Industrial Services,,Pengembangan,1993-07-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TIRT,Tirta Mahakam Resources Tbk,Basic Materials,Basic Materials,,Pemantauan Khusus,1999-12-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TKIM,Pabrik Kertas Tjiwi Kimia Tbk.,Basic Materials,Basic Materials,,Utama,1990-04-03,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TLDN,Teladan Prima Agro Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Pengembangan,2022-04-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TLKM,Telkom Indonesia (Persero) Tbk.,Infrastructure,Telecommunication,telkom|telekomunikasi|telco,Utama,1995-11-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TMAS,Temas Tbk.,Transportation & Logistics,Logistics & Deliveries,temas|pelayaran,Utama,2003-07-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TMPO,Tempo Intimedia Tbk.,Consumer Cyclicals,Media & Entertainment,,Pengembangan,2001-01-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TNCA,Trimuda Nuansa Citra Tbk.,Transportation & Logistics,Logistics & Deliveries,,Pengembangan,2018-06-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TOBA,TBS Energi Utama Tbk.,Energy,"Oil, Gas & Coal",,Utama,2012-07-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TOOL,Rohartindo Nusantara Luas Tbk.,Consumer Cyclicals,Retailing,,Pengembangan,2022-08-09,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TOPS,Totalindo Eka Persada Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Pemantauan Khusus,2017-06-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TOSK,Topindo Solusi Komunika Tbk.,Technology,Software & IT Services,,Pengembangan,2024-02-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TOTL,Total Bangun Persada Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Utama,2006-07-25,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TOTO,Surya Toto Indonesia Tbk.,Industrials,Industrial Goods,,Pengembangan,1990-10-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TOWR,Sarana Menara Nusantara Tbk.,Infrastructure,Telecommunication,menara|tower,Utama,2010-03-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TOYS,Sunindo Adipersada Tbk.,Consumer Cyclicals,Leisure Goods,,Pemantauan Khusus,2020-08-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TPIA,Chandra Asri Pacific Tbk.,Basic Materials,Basic Chemicals,chandra asri|petrokimia,Pengembangan,2008-05-26,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TPMA,Trans Power Marine Tbk.,Energy,"Oil, Gas & Coal",,Utama,2013-02-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TRAM,Trada Alam Minera Tbk.,Energy,"Oil, Gas & Coal",,Pemantauan Khusus,2008-09-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TRGU,Cerestar Indonesia Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Utama,2022-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TRIL,Triwira Insanlestari Tbk.,Industrials,Industrial Services,,Pemantauan Khusus,2008-01-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TRIM,Trimegah Sekuritas Indonesia Tbk.,Financials,Investment Service,,Utama,2000-01-31,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TRIN,Perintis Triniti Properti Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2020-01-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TRIO,Trikomsel Oke Tbk.,Consumer Cyclicals,Retailing,,Pemantauan Khusus,2009-04-14,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TRIS,Trisula International Tbk.,Consumer Cyclicals,Apparel & Luxury Goods,,Pengembangan,2012-06-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TRJA,Transkon Jaya Tbk.,Transportation & Logistics,Transportation,,Pengembangan,2020-08-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TRON,Teknologi Karya Digital Nusa Tbk.,Technology,Software & IT Services,,Pengembangan,2023-03-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TRST,Trias Sentosa Tbk.,Basic Materials,Basic Materials,,Pengembangan,1990-07-02,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TRUE,Triniti Dinamik Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2021-06-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TRUK,Guna Timur Raya Tbk.,Transportation & Logistics,Logistics & Deliveries,,Pengembangan,2018-05-23,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TRUS,Trust Finance Indonesia Tbk,Financials,Financing Service,,Pengembangan,2002-11-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TSPC,Tempo Scan Pacific Tbk.,Healthcare,Pharmaceuticals & Health Care Research,,Utama,1994-06-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TUGU,Asuransi Tugu Pratama Indonesia Tbk.,Financials,Insurance,,Utama,2018-05-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+TYRE,King Tire Indonesia Tbk.,Consumer Cyclicals,Automobiles & Components,,Pengembangan,2023-05-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+UANG,Pakuan Tbk.,Properties & Real Estate,Real Estate Development & Management,,Pengembangan,2020-07-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+UCID,Uni-Charm Indonesia Tbk.,Consumer Non-Cyclicals,Nondurable Household Products,,Utama,2019-12-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+UDNG,Agro Bahari Nusantara Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Akselerasi,2023-10-31,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+UFOE,Damai Sejahtera Abadi Tbk.,Consumer Cyclicals,Retailing,,Pengembangan,2021-02-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ULTJ,Ultrajaya Milk Industry & Trading Company Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Utama,1990-07-02,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+UNIC,Unggul Indah Cahaya Tbk.,Basic Materials,Basic Materials,,Utama,1989-11-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+UNIQ,Ulima Nitra Tbk.,Energy,"Oil, Gas & Coal",,Utama,2021-03-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+UNIT,Nusantara Inti Corpora Tbk,Consumer Cyclicals,Apparel & Luxury Goods,,Pengembangan,2002-04-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+UNSP,Bakrie Sumatera Plantations Tbk.,Consumer Non-Cyclicals,Plantation,sawit|kelapa sawit|cpo|perkebunan|plantation|agro,Pemantauan Khusus,1990-03-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+UNTD,Terang Dunia Internusa Tbk.,Consumer Cyclicals,Leisure Goods,,Pengembangan,2024-02-07,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+UNTR,United Tractors Tbk.,Industrials,Industrial Goods,united tractors|alat berat,Utama,1989-09-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+UNVR,Unilever Indonesia Tbk.,Consumer Non-Cyclicals,Nondurable Household Products,unilever|fmcg,Utama,1982-01-11,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+URBN,Urban Jakarta Propertindo Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2018-12-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+UVCR,Trimegah Karya Pratama Tbk.,Technology,Software & IT Services,,Pengembangan,2021-07-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+VAST,Vastland Indonesia Tbk.,Properties & Real Estate,Properties & Real Estate,,Pengembangan,2023-02-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+VERN,Verona Indah Pictures Tbk.,Consumer Cyclicals,Media & Entertainment,,Pengembangan,2024-10-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+VICI,Victoria Care Indonesia Tbk.,Consumer Non-Cyclicals,Personal Care Products,,Utama,2020-12-17,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+VICO,Victoria Investama Tbk.,Financials,Holding & Investment Companies,,Pengembangan,2013-07-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+VINS,Victoria Insurance Tbk.,Financials,Insurance,,Pengembangan,2015-09-28,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+VISI,Satu Visi Putra Tbk.,Industrials,Industrial Services,,Pengembangan,2024-02-27,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+VIVA,Visi Media Asia Tbk.,Consumer Cyclicals,Media & Entertainment,,Pemantauan Khusus,2011-11-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+VKTR,VKTR Teknologi Mobilitas Tbk.,Consumer Cyclicals,Automobiles & Components,,Pengembangan,2023-06-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+VOKS,Voksel Electric Tbk.,Industrials,Industrial Goods,,Pengembangan,1990-12-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+VRNA,Mizuho Leasing Indonesia Tbk.,Financials,Financing Service,,Pengembangan,2008-06-25,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+VTNY,Venteny Fortuna International Tbk.,Financials,Financing Service,,Utama,2022-12-15,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WAPO,Wahana Pronatural Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2001-06-22,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WBSA,BSA Logistics Indonesia Tbk.,Transportation & Logistics,Logistics & Deliveries,,,,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WEGE,Wijaya Karya Bangunan Gedung Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Utama,2017-11-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WEHA,WEHA Transportasi Indonesia Tbk.,Transportation & Logistics,Transportation,,Pengembangan,2007-05-31,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WGSH,Wira Global Solusi Tbk.,Technology,Software & IT Services,,Akselerasi,2021-12-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WICO,Wicaksana Overseas International Tbk.,Consumer Non-Cyclicals,Food & Staples Retailing,,Pemantauan Khusus,1994-08-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WIDI,Widiant Jaya Krenindo Tbk.,Industrials,Industrial Goods,,Akselerasi,2023-07-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WIFI,Solusi Sinergi Digital Tbk.,Technology,Online Applications & Services,wifi|internet,Pengembangan,2020-12-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WIIM,Wismilak Inti Makmur Tbk.,Consumer Non-Cyclicals,Tobacco,,Utama,2012-12-18,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WIKA,Wijaya Karya (Persero) Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Pengembangan,2007-10-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WINE,Hatten Bali Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pengembangan,2023-01-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WINR,Winner Nusantara Jaya Tbk.,Properties & Real Estate,Properties & Real Estate,,Pemantauan Khusus,2022-04-25,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WINS,Wintermar Offshore Marine Tbk.,Energy,"Oil, Gas & Coal",,Utama,2010-11-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WIRG,WIR ASIA Tbk.,Technology,Software & IT Services,,Pengembangan,2022-04-04,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WMPP,Widodo Makmur Perkasa Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pemantauan Khusus,2021-12-06,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WMUU,Widodo Makmur Unggas Tbk.,Consumer Non-Cyclicals,Food & Beverage,,Pemantauan Khusus,2021-02-02,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WOMF,Wahana Ottomitra Multiartha Tbk.,Financials,Financing Service,,Pengembangan,2004-12-13,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WOOD,Integra Indocabinet Tbk.,Consumer Cyclicals,Household Goods,,Utama,2017-06-21,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WOWS,Ginting Jaya Energi Tbk.,Energy,"Oil, Gas & Coal",,Pemantauan Khusus,2019-11-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WSBP,Waskita Beton Precast Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,2016-09-20,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WSKT,Waskita Karya (Persero) Tbk.,Infrastructure,Heavy Constructions & Civil Engineering,,Pemantauan Khusus,2012-12-19,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+WTON,Wijaya Karya Beton Tbk.,Basic Materials,Basic Materials,,Utama,2014-04-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+YELO,Yelooo Integra Datanet Tbk.,Consumer Cyclicals,Consumer Services,,Pemantauan Khusus,2018-10-29,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+YOII,Asuransi Digital Bersama Tbk.,Financials,Insurance,,Pengembangan,2025-01-08,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+YPAS,Yanaprima Hastapersada Tbk,Basic Materials,Basic Materials,,Pemantauan Khusus,2008-03-05,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+YULE,Yulie Sekuritas Indonesia Tbk.,Financials,Investment Service,,Pengembangan,2004-12-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+YUPI,Yupi Indo Jelly Gum Tbk.,Consumer Non-Cyclicals,Food & Beverage,,,,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ZATA,Bersama Zatta Jaya Tbk.,Consumer Cyclicals,Retailing,,Pemantauan Khusus,2022-11-10,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ZBRA,Dosni Roha Indonesia Tbk.,Industrials,Multi-sector Holdings,,Pengembangan,1991-08-01,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ZINC,Kapuas Prima Coal Tbk.,Basic Materials,Basic Materials,,Pemantauan Khusus,2017-10-16,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ZONE,Mega Perintis Tbk.,Consumer Cyclicals,Retailing,,Pengembangan,2018-12-12,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
+ZYRX,Zyrexindo Mandiri Buana Tbk.,Technology,Technology Hardware & Equipment,,Pengembangan,2021-03-30,aitrade,AITRADE.ID snapshot 2026-11-06; board/listed: wildangunawan/Dataset-Saham-IDX,2026-11-13
