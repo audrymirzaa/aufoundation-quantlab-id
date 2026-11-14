@@ -1,5 +1,7 @@
 # QuantLab
 
+<h4>Demo Video: <href>https://lnkd.in/p/g-qU-rc7</href></h4>
+
 QuantLab adalah proyek analisa saham Indonesia yang berawal dari proses belajar di mata kuliah Pasar Modal. Materi dan arahan dosen menjadi titik awal untuk memahami bagaimana membaca pasar, menghitung return, dan menilai risiko.
 
 Dari dasar itu, QuantLab dikembangkan sebagai alat belajar mandiri yang menggabungkan dua pendekatan:
@@ -8,8 +10,6 @@ Dari dasar itu, QuantLab dikembangkan sebagai alat belajar mandiri yang menggabu
 - **Analisa harga** untuk membaca return, beta, CAPM/Jensen, volatilitas, korelasi, dan risiko portofolio.
 
 Proyek ini dikembangkan oleh **AUFOUNDATION** sebagai inisiatif belajar dan eksplorasi, bukan produk resmi kampus. Edisi ini fokus pada ticker **IDX** dan benchmark **IHSG**. Kode tersedia secara terbuka untuk dipelajari, dimodifikasi, dan difork untuk penggunaan non-komersial. Dilarang menjual atau memakai proyek ini untuk produk komersial tanpa izin tertulis AUFOUNDATION. Penambahan dataset ticker negara lain diperbolehkan untuk penggunaan non-komersial.
-
-Demo Video: <href>https://lnkd.in/p/g-qU-rc7</href>
 
 ## Fitur
 
